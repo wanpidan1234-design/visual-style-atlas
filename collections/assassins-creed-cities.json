@@ -1,13 +1,13 @@
 {
-  "title": "Assassin's Creed mainline representative cities",
+  "title": "Assassin's Creed city collection: English and Chinese",
   "date": "2026-11-15",
   "style": "city-miniature-poster",
   "generator": "built-in image_gen",
-  "scope": "14 original mainline games through Shadows, one representative city each; remakes, DLC and spinoffs excluded. Artistic compressed geography, not archaeological reconstruction.",
-  "requested": 14,
-  "completed": 14,
+  "scope": "Add Venice, Damascus, Acre and Nassau to the original 14-city collection, then create Chinese editions of all 18 posters.",
+  "requested": 36,
+  "completed": 36,
   "style_reference_reviewed": "styles/city-miniature-poster-reference.png",
-  "reference_usage": "Visually reviewed to derive text style instructions; no reference image attached to generation calls.",
+  "reference_usage": "Original English posters used text-only generation. Chinese editions used the corresponding English PNG as an edit target.",
   "sources": [
     {
       "title": "系列现状与重制版说明",
@@ -32,6 +32,18 @@
     {
       "title": "《影》的京都街区",
       "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/4TA6gKaTvtOC1mOjZIxCZd"
+    },
+    {
+      "title": "育碧：系列主作顺序，初代的三座城市",
+      "url": "https://news.ubisoft.com/en-gb/article/6ceMaQ0MpYMPeN1mJxXlLF/how-to-play-the-assassins-creed-games-in-order"
+    },
+    {
+      "title": "育碧：《刺客信条 II》的威尼斯",
+      "url": "https://news.ubisoft.com/en-us/article/3RoepTSzG2cgj4m1JUe7YY/assassins-creed-ii-ezios-first-adventure-still-shines-on-ubisoft"
+    },
+    {
+      "title": "育碧：《黑旗》中的拿骚",
+      "url": "https://www.ubisoft.com/en-gb/game/assassins-creed/news/2oPcDipsbvMkhlZ3BdOCXj/discover-the-fulllife-x-assassins-creed-black-flag-collection"
     }
   ],
   "items": [
@@ -40,6 +52,7 @@
       "game": "刺客信条",
       "city": "耶路撒冷",
       "period": "HOLY LAND · 1191",
+      "language": "en",
       "title": "刺客信条：耶路撒冷",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-01-jerusalem.png",
@@ -55,6 +68,7 @@
       "game": "刺客信条 II",
       "city": "佛罗伦萨",
       "period": "ITALY · 1476",
+      "language": "en",
       "title": "刺客信条 II - 佛罗伦萨",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-02-florence.png",
@@ -70,6 +84,7 @@
       "game": "刺客信条：兄弟会",
       "city": "罗马",
       "period": "ITALY · 1500",
+      "language": "en",
       "title": "刺客信条：兄弟会 - 罗马",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-03-rome.png",
@@ -85,6 +100,7 @@
       "game": "刺客信条：启示录",
       "city": "君士坦丁堡",
       "period": "OTTOMAN EMPIRE · 1511",
+      "language": "en",
       "title": "刺客信条：启示录 - 君士坦丁堡",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-04-constantinople.png",
@@ -100,6 +116,7 @@
       "game": "刺客信条 III",
       "city": "波士顿",
       "period": "COLONIAL AMERICA · 1773",
+      "language": "en",
       "title": "刺客信条 III - 波士顿",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-05-boston.png",
@@ -115,6 +132,7 @@
       "game": "刺客信条 IV：黑旗",
       "city": "哈瓦那",
       "period": "CARIBBEAN · 1715",
+      "language": "en",
       "title": "刺客信条 IV：黑旗 - 哈瓦那",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-06-havana.png",
@@ -130,6 +148,7 @@
       "game": "刺客信条：叛变",
       "city": "纽约",
       "period": "COLONIAL AMERICA · 1756",
+      "language": "en",
       "title": "刺客信条：叛变 - 纽约",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-07-new-york.png",
@@ -145,6 +164,7 @@
       "game": "刺客信条：大革命",
       "city": "巴黎",
       "period": "FRANCE · 1789",
+      "language": "en",
       "title": "刺客信条：大革命 - 巴黎",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-08-paris.png",
@@ -160,6 +180,7 @@
       "game": "刺客信条：枭雄",
       "city": "伦敦",
       "period": "ENGLAND · 1868",
+      "language": "en",
       "title": "刺客信条：枭雄 - 伦敦",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-09-london.png",
@@ -175,6 +196,7 @@
       "game": "刺客信条：起源",
       "city": "亚历山大",
       "period": "PTOLEMAIC EGYPT · 48 BCE",
+      "language": "en",
       "title": "刺客信条：起源 - 亚历山大",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-10-alexandria.png",
@@ -190,6 +212,7 @@
       "game": "刺客信条：奥德赛",
       "city": "雅典",
       "period": "CLASSICAL GREECE · 431 BCE",
+      "language": "en",
       "title": "刺客信条：奥德赛 - 雅典",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-11-athens.png",
@@ -205,6 +228,7 @@
       "game": "刺客信条：英灵殿",
       "city": "伦敦城",
       "period": "ANGLO-SAXON ENGLAND · 873",
+      "language": "en",
       "title": "刺客信条：英灵殿 - 伦敦城",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-12-lunden.png",
@@ -220,6 +244,7 @@
       "game": "刺客信条：幻景",
       "city": "巴格达",
       "period": "ABBASID CALIPHATE · 861",
+      "language": "en",
       "title": "刺客信条：幻景 - 巴格达",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-13-baghdad.png",
@@ -235,6 +260,7 @@
       "game": "刺客信条：影",
       "city": "京都",
       "period": "SENGOKU JAPAN · 1579",
+      "language": "en",
       "title": "刺客信条：影 - 京都",
       "style": "city-miniature-poster",
       "image": "images/city-miniature-posters/ac-14-kyoto.png",
@@ -244,6 +270,381 @@
         1402
       ],
       "sha256": "e9f3bae99a84fe01d92837336f7c589a97be7f4fffae838f977f587057c27e5f"
+    },
+    {
+      "id": "15",
+      "game": "刺客信条 II",
+      "city": "威尼斯",
+      "period": "VENETIAN REPUBLIC · 1486",
+      "language": "en",
+      "title": "刺客信条 II - 威尼斯",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-15-venice.png",
+      "prompt": "prompts/city-miniature-poster/ac-15-venice.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "559e8f124dc50780114b229ed85bb24038adf5a119b448b8e3e09a820bb72b92"
+    },
+    {
+      "id": "16",
+      "game": "刺客信条",
+      "city": "大马士革",
+      "period": "SYRIA · 1191",
+      "language": "en",
+      "title": "刺客信条 - 大马士革",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-16-damascus.png",
+      "prompt": "prompts/city-miniature-poster/ac-16-damascus.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "f5e33493d95b2c368754429e402a5a381edf23689ba53447df899c6e365a0045"
+    },
+    {
+      "id": "17",
+      "game": "刺客信条",
+      "city": "阿卡",
+      "period": "HOLY LAND · 1191",
+      "language": "en",
+      "title": "刺客信条 - 阿卡",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-17-acre.png",
+      "prompt": "prompts/city-miniature-poster/ac-17-acre.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "8ebc18dcf4ee7ed2532b4b2b355eec26a74b29d01ffcec782dae54516413cf09"
+    },
+    {
+      "id": "18",
+      "game": "刺客信条 IV：黑旗",
+      "city": "拿骚",
+      "period": "BAHAMAS · 1715",
+      "language": "en",
+      "title": "刺客信条 IV：黑旗 - 拿骚",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-18-nassau.png",
+      "prompt": "prompts/city-miniature-poster/ac-18-nassau.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "08ab1c76ff7af6d7909bb57ffb5a373d1ee367168c9c4f957ae0001e1d3e910f"
+    }
+  ],
+  "scene_count": 18,
+  "english_count": 18,
+  "chinese_count": 18,
+  "chinese_items": [
+    {
+      "id": "01",
+      "game": "刺客信条",
+      "city": "耶路撒冷",
+      "period": "圣地 · 1191年",
+      "language": "zh-Hans",
+      "title": "刺客信条 - 耶路撒冷 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-01-jerusalem-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-01-jerusalem-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "89e4f6dc161eed91e1eedcdc24a3fcdf9171674552c92ff3884e0144b1e3096a",
+      "source_image": "images/city-miniature-posters/ac-01-jerusalem.png"
+    },
+    {
+      "id": "02",
+      "game": "刺客信条 II",
+      "city": "佛罗伦萨",
+      "period": "意大利 · 1476年",
+      "language": "zh-Hans",
+      "title": "刺客信条 II - 佛罗伦萨 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-02-florence-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-02-florence-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "dfc75a54e65475f727883faec7986674560f117cc0c81fd64ed0279fed1ee257",
+      "source_image": "images/city-miniature-posters/ac-02-florence.png"
+    },
+    {
+      "id": "03",
+      "game": "刺客信条：兄弟会",
+      "city": "罗马",
+      "period": "意大利 · 1500年",
+      "language": "zh-Hans",
+      "title": "刺客信条：兄弟会 - 罗马 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-03-rome-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-03-rome-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "a302549e3e855a1aae123a41af0b96164dba408a8bf0b4f0003a7442e5d6379f",
+      "source_image": "images/city-miniature-posters/ac-03-rome.png"
+    },
+    {
+      "id": "04",
+      "game": "刺客信条：启示录",
+      "city": "君士坦丁堡",
+      "period": "奥斯曼帝国 · 1511年",
+      "language": "zh-Hans",
+      "title": "刺客信条：启示录 - 君士坦丁堡 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-04-constantinople-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-04-constantinople-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "7ddc4937532bc3289e65e3477429f75719d266ec3d31536877469457b6fae8b0",
+      "source_image": "images/city-miniature-posters/ac-04-constantinople.png"
+    },
+    {
+      "id": "05",
+      "game": "刺客信条 III",
+      "city": "波士顿",
+      "period": "北美殖民地 · 1773年",
+      "language": "zh-Hans",
+      "title": "刺客信条 III - 波士顿 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-05-boston-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-05-boston-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "3454b80573853bad11903a2d6d106a72235406fb57ec5afe5731a0e3232319d1",
+      "source_image": "images/city-miniature-posters/ac-05-boston.png"
+    },
+    {
+      "id": "06",
+      "game": "刺客信条 IV：黑旗",
+      "city": "哈瓦那",
+      "period": "加勒比海 · 1715年",
+      "language": "zh-Hans",
+      "title": "刺客信条 IV：黑旗 - 哈瓦那 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-06-havana-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-06-havana-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "1ae3fa826107e78d7079a8d32d29664232c972eda423947cae87beae830e16ed",
+      "source_image": "images/city-miniature-posters/ac-06-havana.png"
+    },
+    {
+      "id": "07",
+      "game": "刺客信条：叛变",
+      "city": "纽约",
+      "period": "北美殖民地 · 1756年",
+      "language": "zh-Hans",
+      "title": "刺客信条：叛变 - 纽约 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-07-new-york-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-07-new-york-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0d94e30a36b6763ec8bd4f390911ab62aafb0c5dbbfb7a3ed4682cdc505773e7",
+      "source_image": "images/city-miniature-posters/ac-07-new-york.png"
+    },
+    {
+      "id": "08",
+      "game": "刺客信条：大革命",
+      "city": "巴黎",
+      "period": "法国 · 1789年",
+      "language": "zh-Hans",
+      "title": "刺客信条：大革命 - 巴黎 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-08-paris-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-08-paris-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9f75227b3fcf781915229b21ef6a9b46478ccea110481510384c7dc6cacebc8d",
+      "source_image": "images/city-miniature-posters/ac-08-paris.png"
+    },
+    {
+      "id": "09",
+      "game": "刺客信条：枭雄",
+      "city": "伦敦",
+      "period": "英格兰 · 1868年",
+      "language": "zh-Hans",
+      "title": "刺客信条：枭雄 - 伦敦 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-09-london-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-09-london-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "8884016b4ed1f98a48e7d46d3847e83f454e4263edd375ac94ccef3b8c982a5d",
+      "source_image": "images/city-miniature-posters/ac-09-london.png"
+    },
+    {
+      "id": "10",
+      "game": "刺客信条：起源",
+      "city": "亚历山大",
+      "period": "托勒密埃及 · 公元前48年",
+      "language": "zh-Hans",
+      "title": "刺客信条：起源 - 亚历山大 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-10-alexandria-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-10-alexandria-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "e4131a1d08a28e682d061f1ba2b9030915b263f44c315ca9377e1f0c613e07fa",
+      "source_image": "images/city-miniature-posters/ac-10-alexandria.png"
+    },
+    {
+      "id": "11",
+      "game": "刺客信条：奥德赛",
+      "city": "雅典",
+      "period": "古希腊 · 公元前431年",
+      "language": "zh-Hans",
+      "title": "刺客信条：奥德赛 - 雅典 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-11-athens-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-11-athens-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "c408d5808a811e1cce7685f5386cef360f950970989d67ca15346e8e742c0550",
+      "source_image": "images/city-miniature-posters/ac-11-athens.png"
+    },
+    {
+      "id": "12",
+      "game": "刺客信条：英灵殿",
+      "city": "伦敦城",
+      "period": "盎格鲁－撒克逊英格兰 · 873年",
+      "language": "zh-Hans",
+      "title": "刺客信条：英灵殿 - 伦敦城 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-12-lunden-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-12-lunden-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9792499a11a9fdd86fd5f6e0028a5ae4f8d86a4ef2f1256ce0bf1ce80d430f88",
+      "source_image": "images/city-miniature-posters/ac-12-lunden.png"
+    },
+    {
+      "id": "13",
+      "game": "刺客信条：幻景",
+      "city": "巴格达",
+      "period": "阿拔斯王朝 · 861年",
+      "language": "zh-Hans",
+      "title": "刺客信条：幻景 - 巴格达 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-13-baghdad-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-13-baghdad-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "ddcc08cc1c27b0dcc6f3f15cc78554fbb2dea257d0e426709bb15d8ec9035fa3",
+      "source_image": "images/city-miniature-posters/ac-13-baghdad.png"
+    },
+    {
+      "id": "14",
+      "game": "刺客信条：影",
+      "city": "京都",
+      "period": "战国日本 · 1579年",
+      "language": "zh-Hans",
+      "title": "刺客信条：影 - 京都 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-14-kyoto-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-14-kyoto-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0a372f25a6a4de9374a8e58b1ee65e140fa3e369092b7672728e158cd09f7614",
+      "source_image": "images/city-miniature-posters/ac-14-kyoto.png"
+    },
+    {
+      "id": "15",
+      "game": "刺客信条 II",
+      "city": "威尼斯",
+      "period": "威尼斯共和国 · 1486年",
+      "language": "zh-Hans",
+      "title": "刺客信条 II - 威尼斯 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-15-venice-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-15-venice-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "20ee3774c4d61ad9bf354638c064dfe1676e08770c194d8bad2daec7d732cd4e",
+      "source_image": "images/city-miniature-posters/ac-15-venice.png"
+    },
+    {
+      "id": "16",
+      "game": "刺客信条",
+      "city": "大马士革",
+      "period": "叙利亚 · 1191年",
+      "language": "zh-Hans",
+      "title": "刺客信条 - 大马士革 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-16-damascus-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-16-damascus-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "b8c954d104c9ee606d1028ccbbf72521103d7040b7ad9ec3c9c09c7cb42496e2",
+      "source_image": "images/city-miniature-posters/ac-16-damascus.png"
+    },
+    {
+      "id": "17",
+      "game": "刺客信条",
+      "city": "阿卡",
+      "period": "圣地 · 1191年",
+      "language": "zh-Hans",
+      "title": "刺客信条 - 阿卡 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-17-acre-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-17-acre-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "816d08afccb9e4b46c9ea01b0296fa5634f1ca5d744fc86130ed95528026eb4d",
+      "source_image": "images/city-miniature-posters/ac-17-acre.png"
+    },
+    {
+      "id": "18",
+      "game": "刺客信条 IV：黑旗",
+      "city": "拿骚",
+      "period": "巴哈马 · 1715年",
+      "language": "zh-Hans",
+      "title": "刺客信条 IV：黑旗 - 拿骚 (Chinese)",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-18-nassau-zh.png",
+      "prompt": "prompts/city-miniature-poster/ac-18-nassau-zh.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "347d862b7fd2d22e929076715ba1380d677630e00497e17744d90303da15d9d3",
+      "source_image": "images/city-miniature-posters/ac-18-nassau.png"
     }
   ]
 }

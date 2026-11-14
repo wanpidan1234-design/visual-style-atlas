@@ -1,0 +1,17 @@
+{
+  "title": "刺客信条 IV：黑旗 - 哈瓦那 (Chinese)",
+  "style": "city-miniature-poster",
+  "image": "images/city-miniature-posters/ac-06-havana-zh.png",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: text-localization. Edit the supplied city miniature poster into a Simplified Chinese edition. The supplied image is the EDIT TARGET, not merely inspiration. Preserve the original city scene, all buildings and streets, terrain, water, vessels, people, lighting, colors, delicate skyline silhouette, small decorative emblem if present, dark plinth, viewpoint, composition and 4:5 canvas. Only replace the English masthead typography in the white top section with the following exact Chinese text:\nMain large city title: \"哈瓦那\"\nSmaller game subtitle: \"刺客信条4：黑旗\"\nSmall period line: \"加勒比海 · 1715年\"\nUse exceptionally clean, correctly formed Simplified Chinese glyphs, bold modern black Chinese sans-serif for the large city name, refined readable Chinese type for the subtitle and period. Keep the hierarchy and premium editorial mood of the original, centered alignment, comfortable spacing. Fit all three lines with no crowding; leave a clear white margin above the main title, never cut characters at the edge. Remove the replaced English wording entirely, including tiny English period text; do not add translations in parentheses or any new text. Preserve existing thin rules and skyline ornament where possible, adjusting only within the masthead to fit Chinese text. No added plaques, borders, watermarks or redrawn city. Output a single finished Chinese poster at the same aspect ratio as the input.",
+  "references": [
+    "images/city-miniature-posters/ac-06-havana.png"
+  ],
+  "input_roles": [
+    {
+      "path": "images/city-miniature-posters/ac-06-havana.png",
+      "role": "edit_target"
+    }
+  ],
+  "language": "zh-Hans"
+}

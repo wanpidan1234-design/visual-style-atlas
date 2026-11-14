@@ -1,0 +1,21 @@
+{
+  "title": "仰天湖草原",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE beautiful vertical 4:5 collectible vintage watercolor travel poster in the style of the supplied China collage reference. Use the reference only for MEDIUM and TYPOGRAPHY, not its subject matter. Warm aged ivory paper with subtle fibers, extremely delicate realistic ink detail, translucent watercolor washes, soft edges dissolving into parchment, restrained mineral greens and blue-gray with warm ochre and small vermilion accents. Small Chinese brush heading at top, monumental but elegant antique-brown serif English title below, and small widely spaced location/subtitle. Fine understated corner ornaments. Keep title legible and the central artwork spacious. Depict one specified destination scene, richly composed with foreground, middle distance and atmospheric background; no boxed collage panels. Naturalistic proportions and identifiable characteristic landforms. No copied Great Wall, pagoda, panda, tea still life or other unrelated objects. No photography, no 3D miniature plinth, no engineering diagrams, no watermarks, no invented numeric tourism claims. No extra text except specified three heading lines. This is a coherent six-poster collection, with consistent paper color and typography.  SUBJECT: Depict Yangtianhu highland grassland in Beihu district, Chenzhou, as a peaceful green upland meadow surrounding its small natural highland lake. Soft rolling grassy hills with a rounded basin, a modest irregular oval lake reflecting pale blue cloud-filled sky, rich fresh green and warm straw-green grasses, tiny native wildflowers in the foreground, a gentle walking path through the pasture-like landscape. Layered blue-green Nanling foothills fade far behind, fine soft mist at the horizon, bright airy spring-summer feeling. A few very small visitors on the path establish scale. The lake must remain small and intimate within the much larger grassland, not a massive alpine sea. No snowy Alpine mountains, no Mongolian yurts, no imported landmark buildings, no enormous herds. Exact heading text: \"仰天湖草原\" / \"YANGTIANHU\" / \"CHENZHOU · HUNAN\".\n",
+  "references": [
+    "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png"
+  ],
+  "research_sources": [
+    "https://www.hunan.gov.cn/topic/ashunan/112/119/content_8179.html",
+    "https://lyj.hunan.gov.cn/ztzl/lshn_77586/202105/t20210525_19365047.html"
+  ],
+  "reference_roles": [
+    {
+      "image": "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png",
+      "role": "visual-style-only"
+    }
+  ],
+  "location": "Chenzhou, Hunan, China"
+}

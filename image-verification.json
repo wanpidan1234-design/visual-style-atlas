@@ -190,5 +190,53 @@
       1536
     ],
     "sha256": "e16d0456b79835bb088d0f7d3c23a8179e749ba6533a0f7aaa4b58149598805f"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "596dbaa8bf41d39316e6c3703f037e893554403068a11e5df79b617ee2993be1"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "1e04eb45d9b86f4f39ce3ca6ce3670e0d9dffac6f2f82a84e696f087dbd577cc"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "06ccab6c2d5c16d47c83e00f3cef79df6b7e028b42d1549ec2dfc6df55601cd7"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "d8113e5148691e786b996dc1a8366f4f62d7919aeac8f53dc8e9bb2383321151"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "d7733f7f2730efdef9980a46ceee1a4b9848a921a0bc87a7ba68f7a917c12ad2"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "331537b73e0f23ad0d0f43fafe184cc378abd0ca231706c712237b8bf0b1f082"
   }
 ]

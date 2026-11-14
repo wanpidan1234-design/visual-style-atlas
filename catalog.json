@@ -59,7 +59,13 @@
       "images": [
         "images/vintage-watercolor-travel-collage/united-states-travel-poster.png",
         "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png",
-        "images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png"
+        "images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png",
+        "images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png",
+        "images/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.png",
+        "images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png",
+        "images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png",
+        "images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png",
+        "images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png"
       ],
       "prompts": "prompts/vintage-watercolor-travel-collage-template.json"
     }
@@ -97,6 +103,72 @@
         1536
       ],
       "sha256": "e16d0456b79835bb088d0f7d3c23a8179e749ba6533a0f7aaa4b58149598805f"
+    },
+    {
+      "title": "雾漫小东江",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "596dbaa8bf41d39316e6c3703f037e893554403068a11e5df79b617ee2993be1"
+    },
+    {
+      "title": "高椅岭",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "1e04eb45d9b86f4f39ce3ca6ce3670e0d9dffac6f2f82a84e696f087dbd577cc"
+    },
+    {
+      "title": "仰天湖草原",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "06ccab6c2d5c16d47c83e00f3cef79df6b7e028b42d1549ec2dfc6df55601cd7"
+    },
+    {
+      "title": "莽山五指峰",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d8113e5148691e786b996dc1a8366f4f62d7919aeac8f53dc8e9bb2383321151"
+    },
+    {
+      "title": "古龙峡·飞龙在天",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d7733f7f2730efdef9980a46ceee1a4b9848a921a0bc87a7ba68f7a917c12ad2"
+    },
+    {
+      "title": "古龙峡·森林漂流",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/gulongxia-forest-rafting.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "331537b73e0f23ad0d0f43fafe184cc378abd0ca231706c712237b8bf0b1f082"
     }
   ]
 }

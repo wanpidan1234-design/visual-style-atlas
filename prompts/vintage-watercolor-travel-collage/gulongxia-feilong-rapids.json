@@ -1,0 +1,21 @@
+{
+  "title": "古龙峡·飞龙在天",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE beautiful vertical 4:5 collectible vintage watercolor travel poster in the style of the supplied China collage reference. Use the reference only for MEDIUM and TYPOGRAPHY, not its subject matter. Warm aged ivory paper with subtle fibers, extremely delicate realistic ink detail, translucent watercolor washes, soft edges dissolving into parchment, restrained mineral greens and blue-gray with warm ochre and small vermilion accents. Small Chinese brush heading at top, monumental but elegant antique-brown serif English title below, and small widely spaced location/subtitle. Fine understated corner ornaments. Keep title legible and the central artwork spacious. Depict one specified destination scene, richly composed with foreground, middle distance and atmospheric background; no boxed collage panels. Naturalistic proportions and identifiable characteristic landforms. No copied Great Wall, pagoda, panda, tea still life or other unrelated objects. No photography, no 3D miniature plinth, no engineering diagrams, no watermarks, no invented numeric tourism claims. No extra text except specified three heading lines. This is a coherent six-poster collection, with consistent paper color and typography.  SUBJECT: Depict an artistic illustration of the famous Feilong Zaitian whitewater rafting stretch at Gulongxia, Qingyuan, Guangdong. A steep but continuously water-connected descending river chute runs through a lush subtropical granite gorge. The central orange-red two-person inflatable raft sweeps DOWN a sloping whitewater cascade toward the viewer, bow cutting through bright foaming spray. Exactly two adult riders seated securely inside, each wearing a properly fitted bright life jacket and helmet, holding the raft handles. Another tiny raft may be far upstream. Dense broadleaf trees, wet dark rock, ferns, boulders and forested cliffs frame the narrow course. Waterfall-like rapid slopes have a believable navigable channel, not a sheer giant waterfall and not boats flying through the air. Strong diagonal movement, sparkling white spray rendered as preserved paper highlights and translucent blue-gray watercolor, with a calm misty backdrop. No injury, no capsized rafts, no dragon sculptures or unrelated tourist attractions. Exact heading text: \"古龙峡·飞龙在天\" / \"GULONGXIA\" / \"QINGYUAN · WHITEWATER\".\n",
+  "references": [
+    "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png"
+  ],
+  "research_sources": [
+    "https://www.ctnews.com.cn/paper/content/202211/23/content_75965.html",
+    "https://www.gulongxia.com/html/cn/picshow-345-241.html"
+  ],
+  "reference_roles": [
+    {
+      "image": "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png",
+      "role": "visual-style-only"
+    }
+  ],
+  "location": "Qingyuan, Guangdong, China"
+}

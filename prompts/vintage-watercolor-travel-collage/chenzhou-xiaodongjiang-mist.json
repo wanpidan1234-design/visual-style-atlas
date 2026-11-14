@@ -1,0 +1,21 @@
+{
+  "title": "雾漫小东江",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept. Create ONE beautiful vertical 4:5 collectible vintage watercolor travel poster in the style of the supplied China collage reference. Use the reference only for MEDIUM and TYPOGRAPHY, not its subject matter. Warm aged ivory paper with subtle fibers, extremely delicate realistic ink detail, translucent watercolor washes, soft edges dissolving into parchment, restrained mineral greens and blue-gray with warm ochre and small vermilion accents. Small Chinese brush heading at top, monumental but elegant antique-brown serif English title below, and small widely spaced location/subtitle. Fine understated corner ornaments. Keep title legible and the central artwork spacious. Depict one specified destination scene, richly composed with foreground, middle distance and atmospheric background; no boxed collage panels. Naturalistic proportions and identifiable characteristic landforms. No copied Great Wall, pagoda, panda, tea still life or other unrelated objects. No photography, no 3D miniature plinth, no engineering diagrams, no watermarks, no invented numeric tourism claims. No extra text except specified three heading lines. This is a coherent six-poster collection, with consistent paper color and typography.  SUBJECT: Depict the iconic misty Xiaodongjiang river in Zixing, Chenzhou, Hunan. A narrow calm jade-green river winds between wooded hills, layers of low milk-white morning mist drift horizontally across the water, soft pale sunrise and hazy deep green banks. In the lower middle a small slender traditional wooden fishing boat carries one fisherman in a modest red jacket and conical straw hat, casting one beautiful semicircular net. The translucent net opens in an elegant arc just above the mirror-like river, with reflections of the boat and forest delicately visible below. Quiet graceful composition, mist and negative space are essential, ferns and reeds frame the foreground. Do not turn the hills into Guilin limestone towers or show a huge lake dam. Exact heading text: \"雾漫小东江\" / \"DONGJIANG\" / \"CHENZHOU · HUNAN\".\n",
+  "references": [
+    "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png"
+  ],
+  "research_sources": [
+    "https://hunan.voc.com.cn/news/202005/24682657.html",
+    "https://www.hunantoday.cn/news/xhn/202406/20155607.html"
+  ],
+  "reference_roles": [
+    {
+      "image": "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png",
+      "role": "visual-style-only"
+    }
+  ],
+  "location": "Chenzhou, Hunan, China"
+}

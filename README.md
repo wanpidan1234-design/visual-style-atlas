@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、24 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成。
+当前收录 **4 种风格、30 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成。
 
 ## 风格目录
 
@@ -13,7 +13,7 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | [微缩沙盘鸟瞰全景](styles/STYLE_GUIDE.md) | 暖白纸背景、独立模型底座、细密景观、木质铭牌 | 10 张球场图 | [完整提示词](prompts/stadium-prompts.json) |
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
 | [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦城市全景 | [完整提示词](prompts/liverpool-city-poster.json) |
-| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南与樱花山林 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南、樱花山林、郴州与古龙峡 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
 
 ## 复古水彩文旅海报
 
@@ -30,6 +30,19 @@ Reusable visual styles, references, prompts, and generated examples across subje
 <a href="images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png"><img src="images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png" width="480" alt="樱花山林水彩海报"></a>
 
 [主体原始照片](styles/references/vintage-watercolor-travel-collage-12e6470cebe31a76.png) · [实际提示词与参考角色](prompts/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.json)
+
+## 郴州四景与古龙峡漂流
+
+沿用风格 4，四张郴州景点海报加两张广东清远古龙峡漂流场景；[图集索引与资料来源](collections/chenzhou-gulongxia-watercolor.json)。
+
+| 场景 | 海报 | 提示词与依据 |
+| --- | --- | --- |
+| 雾漫小东江 | <a href="images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png"><img src="images/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.png" width="300" alt="雾漫小东江"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/chenzhou-xiaodongjiang-mist.json) · [景观资料](https://hunan.voc.com.cn/news/202005/24682657.html) |
+| 高椅岭 | <a href="images/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.png"><img src="images/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.png" width="300" alt="高椅岭"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/chenzhou-gaoyiling-danxia.json) · [景观资料](https://hnggwhy.wentiyun.cn/stgx/xwzx_detail-9-128553.html) |
+| 仰天湖草原 | <a href="images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png"><img src="images/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.png" width="300" alt="仰天湖草原"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/chenzhou-yangtianhu-grassland.json) · [景观资料](https://www.hunan.gov.cn/topic/ashunan/112/119/content_8179.html) |
+| 莽山五指峰 | <a href="images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png"><img src="images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png" width="300" alt="莽山五指峰"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.json) · [景观资料](https://www.hunan.gov.cn/hnszf/hnyw/jdt2/202109/t20210904_20511736.html) |
+| 古龙峡·飞龙在天 | <a href="images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png"><img src="images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png" width="300" alt="古龙峡·飞龙在天"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.json) · [景观资料](https://www.ctnews.com.cn/paper/content/202211/23/content_75965.html) |
+| 古龙峡·森林漂流 | <a href="images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png"><img src="images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png" width="300" alt="古龙峡·森林漂流"></a> | [实际提示词](prompts/vintage-watercolor-travel-collage/gulongxia-forest-rafting.json) · [景观资料](https://www.gulongxia.com/html/cn/userpage-369.html) |
 
 ## 利物浦城市全景
 
@@ -90,6 +103,6 @@ catalog.json
 image-verification.json
 ```
 
-`image-verification.json` 记录全部 24 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
+`image-verification.json` 记录全部 30 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
 
 诺坎普采用经典改建前外观；米兰双雄为同一球场的不同球队氛围版本。图像和细节分图属于艺术化表现，地理距离可为构图压缩，不作为精确地图或建筑工程图。

@@ -1,0 +1,55 @@
+{
+  "name": "Visual Style Atlas",
+  "description": "Reusable visual styles, references, prompts, and generated examples across subjects.",
+  "generator": "built-in image_gen",
+  "styles": [
+    {
+      "id": "miniature-diorama",
+      "name": "微缩沙盘鸟瞰全景",
+      "reference": "styles/miniature-diorama-reference.png",
+      "guide": "styles/STYLE_GUIDE.md",
+      "images": [
+        "images/miniature-diorama/01-real-madrid-bernabeu.png",
+        "images/miniature-diorama/02-barcelona-camp-nou.png",
+        "images/miniature-diorama/03-manchester-united-old-trafford.png",
+        "images/miniature-diorama/04-liverpool-anfield.png",
+        "images/miniature-diorama/05-arsenal-emirates.png",
+        "images/miniature-diorama/06-chelsea-stamford-bridge.png",
+        "images/miniature-diorama/07-bayern-allianz-arena.png",
+        "images/miniature-diorama/08-juventus-allianz-stadium.png",
+        "images/miniature-diorama/09-ac-milan-san-siro.png",
+        "images/miniature-diorama/10-inter-san-siro.png"
+      ],
+      "prompts": "prompts/stadium-prompts.json"
+    },
+    {
+      "id": "vintage-architectural-study",
+      "name": "复古建筑手绘研究图",
+      "reference": "styles/vintage-architectural-study-reference.png",
+      "guide": "styles/STYLE_GUIDE.md",
+      "images": [
+        "images/vintage-architectural-study/01-real-madrid-bernabeu.png",
+        "images/vintage-architectural-study/02-barcelona-camp-nou.png",
+        "images/vintage-architectural-study/03-manchester-united-old-trafford.png",
+        "images/vintage-architectural-study/04-liverpool-anfield.png",
+        "images/vintage-architectural-study/05-arsenal-emirates.png",
+        "images/vintage-architectural-study/06-chelsea-stamford-bridge.png",
+        "images/vintage-architectural-study/07-bayern-allianz-arena.png",
+        "images/vintage-architectural-study/08-juventus-allianz-stadium.png",
+        "images/vintage-architectural-study/09-ac-milan-san-siro.png",
+        "images/vintage-architectural-study/10-inter-san-siro.png"
+      ],
+      "prompts": "prompts/vintage-architectural-study-prompts.json"
+    },
+    {
+      "id": "city-miniature-poster",
+      "name": "高细节城市微缩海报",
+      "reference": "styles/city-miniature-poster-reference.png",
+      "guide": "styles/CITY_MINIATURE_POSTER.md",
+      "images": [
+        "images/city-miniature-posters/liverpool-city-panorama.png"
+      ],
+      "prompts": "prompts/liverpool-city-poster.json"
+    }
+  ]
+}

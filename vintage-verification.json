@@ -1,0 +1,82 @@
+[
+  {
+    "file": "images/vintage-architectural-study/01-real-madrid-bernabeu.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "5c4f2d0fa5868136202ccea071a1308df191d20c53134716f85fcbb7f7fab8e4"
+  },
+  {
+    "file": "images/vintage-architectural-study/02-barcelona-camp-nou.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "e06b191f7f196f3baf80261b49389e3fc569481d25db4677e3c43c2a92488957"
+  },
+  {
+    "file": "images/vintage-architectural-study/03-manchester-united-old-trafford.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "75db3781d780060d7e5541a27c6658a008dae46bd64802482eee4a2609832e7e"
+  },
+  {
+    "file": "images/vintage-architectural-study/04-liverpool-anfield.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "a907f53fd3337961f670e7bd8625e32db174879cdefdcc94b84ff59d73d71936"
+  },
+  {
+    "file": "images/vintage-architectural-study/05-arsenal-emirates.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "c8c76999f8c13b23acc37765fd2c4420241784deea228c2fa5c2a4b8b1009667"
+  },
+  {
+    "file": "images/vintage-architectural-study/06-chelsea-stamford-bridge.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "4e15d8a668b3b596ad9ddf5f8e45bdfb007c3206c6cc2b180fd3a24640e09ef1"
+  },
+  {
+    "file": "images/vintage-architectural-study/07-bayern-allianz-arena.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "996d0f1fb87b9ac6f5a2cbb9610ef82e94d3ac7fd14cca9342cba33593aa8d7e"
+  },
+  {
+    "file": "images/vintage-architectural-study/08-juventus-allianz-stadium.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "cef18e93eb1801eee79390a7d732a7ed3ad84528c09f07e87e135c97b4f56dc0"
+  },
+  {
+    "file": "images/vintage-architectural-study/09-ac-milan-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "cb56bc38eb75419c8c2238606b7869a57376367ccee932ce521c8a65a0b148c7"
+  },
+  {
+    "file": "images/vintage-architectural-study/10-inter-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "50b6a360b6a46a151cf3b627e10661511d355fa86e60d932396a883b97d5eadb"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "images/miniature-diorama/01-real-madrid-bernabeu.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "ae8b09912786d00c5b020b387e548ce3236c2bd6d02a2f5a1c6992acd84bd838"
+  },
+  {
+    "file": "images/miniature-diorama/02-barcelona-camp-nou.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "98d46bb5921d9fcae5e22b85a8264987b136cebebdab5385f318d655db48f8b2"
+  },
+  {
+    "file": "images/miniature-diorama/03-manchester-united-old-trafford.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "57f6e5bb81465970f4543350297f1f199ad4f1e3aec23ce225b1266ddd873484"
+  },
+  {
+    "file": "images/miniature-diorama/04-liverpool-anfield.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "ecce8371ff63b4f2d6e9dbbf3a1b7b7d5473825e4640a1dea1f0a0aef18b5136"
+  },
+  {
+    "file": "images/miniature-diorama/05-arsenal-emirates.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "d6b5ca46cd213b70ea5be81882ddbd0675fe9188bc6b9841c4c508a0b684397a"
+  },
+  {
+    "file": "images/miniature-diorama/06-chelsea-stamford-bridge.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "4fd24aa7b1a51823e4ddc2e8c49eb7149b462392952993b40cc45238aa7cb9c4"
+  },
+  {
+    "file": "images/miniature-diorama/07-bayern-allianz-arena.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "707609269e576520bfac77db329f1157f46b4e37082a26bf045390c3c59417b8"
+  },
+  {
+    "file": "images/miniature-diorama/08-juventus-allianz-stadium.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "3f46de5da57b1d8930be424540e195ed4bc38730efdadc353eb8a39a90ab8efa"
+  },
+  {
+    "file": "images/miniature-diorama/09-ac-milan-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "b8a9a70cd5680dd9ecfa9e94664023dd5d5cf48144e13de6417cc9793a2b65e7"
+  },
+  {
+    "file": "images/miniature-diorama/10-inter-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "b35ccead232fa6aeb4476a57e40acd997b1c99c906ee51636714f91f8e7828a1"
+  }
+]

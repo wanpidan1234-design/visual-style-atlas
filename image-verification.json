@@ -1,0 +1,170 @@
+[
+  {
+    "file": "images/city-miniature-posters/liverpool-city-panorama.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "321787337b3d25edd0a4857296de7e58af951530dab3bac9cb2a68a013b6e985"
+  },
+  {
+    "file": "images/miniature-diorama/01-real-madrid-bernabeu.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "ae8b09912786d00c5b020b387e548ce3236c2bd6d02a2f5a1c6992acd84bd838"
+  },
+  {
+    "file": "images/miniature-diorama/02-barcelona-camp-nou.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "98d46bb5921d9fcae5e22b85a8264987b136cebebdab5385f318d655db48f8b2"
+  },
+  {
+    "file": "images/miniature-diorama/03-manchester-united-old-trafford.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "57f6e5bb81465970f4543350297f1f199ad4f1e3aec23ce225b1266ddd873484"
+  },
+  {
+    "file": "images/miniature-diorama/04-liverpool-anfield.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "ecce8371ff63b4f2d6e9dbbf3a1b7b7d5473825e4640a1dea1f0a0aef18b5136"
+  },
+  {
+    "file": "images/miniature-diorama/05-arsenal-emirates.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "d6b5ca46cd213b70ea5be81882ddbd0675fe9188bc6b9841c4c508a0b684397a"
+  },
+  {
+    "file": "images/miniature-diorama/06-chelsea-stamford-bridge.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "4fd24aa7b1a51823e4ddc2e8c49eb7149b462392952993b40cc45238aa7cb9c4"
+  },
+  {
+    "file": "images/miniature-diorama/07-bayern-allianz-arena.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "707609269e576520bfac77db329f1157f46b4e37082a26bf045390c3c59417b8"
+  },
+  {
+    "file": "images/miniature-diorama/08-juventus-allianz-stadium.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "3f46de5da57b1d8930be424540e195ed4bc38730efdadc353eb8a39a90ab8efa"
+  },
+  {
+    "file": "images/miniature-diorama/09-ac-milan-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "b8a9a70cd5680dd9ecfa9e94664023dd5d5cf48144e13de6417cc9793a2b65e7"
+  },
+  {
+    "file": "images/miniature-diorama/10-inter-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "b35ccead232fa6aeb4476a57e40acd997b1c99c906ee51636714f91f8e7828a1"
+  },
+  {
+    "file": "images/vintage-architectural-study/01-real-madrid-bernabeu.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "5c4f2d0fa5868136202ccea071a1308df191d20c53134716f85fcbb7f7fab8e4"
+  },
+  {
+    "file": "images/vintage-architectural-study/02-barcelona-camp-nou.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "e06b191f7f196f3baf80261b49389e3fc569481d25db4677e3c43c2a92488957"
+  },
+  {
+    "file": "images/vintage-architectural-study/03-manchester-united-old-trafford.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "75db3781d780060d7e5541a27c6658a008dae46bd64802482eee4a2609832e7e"
+  },
+  {
+    "file": "images/vintage-architectural-study/04-liverpool-anfield.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "a907f53fd3337961f670e7bd8625e32db174879cdefdcc94b84ff59d73d71936"
+  },
+  {
+    "file": "images/vintage-architectural-study/05-arsenal-emirates.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "c8c76999f8c13b23acc37765fd2c4420241784deea228c2fa5c2a4b8b1009667"
+  },
+  {
+    "file": "images/vintage-architectural-study/06-chelsea-stamford-bridge.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "4e15d8a668b3b596ad9ddf5f8e45bdfb007c3206c6cc2b180fd3a24640e09ef1"
+  },
+  {
+    "file": "images/vintage-architectural-study/07-bayern-allianz-arena.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "996d0f1fb87b9ac6f5a2cbb9610ef82e94d3ac7fd14cca9342cba33593aa8d7e"
+  },
+  {
+    "file": "images/vintage-architectural-study/08-juventus-allianz-stadium.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "cef18e93eb1801eee79390a7d732a7ed3ad84528c09f07e87e135c97b4f56dc0"
+  },
+  {
+    "file": "images/vintage-architectural-study/09-ac-milan-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "cb56bc38eb75419c8c2238606b7869a57376367ccee932ce521c8a65a0b148c7"
+  },
+  {
+    "file": "images/vintage-architectural-study/10-inter-san-siro.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "50b6a360b6a46a151cf3b627e10661511d355fa86e60d932396a883b97d5eadb"
+  }
+]

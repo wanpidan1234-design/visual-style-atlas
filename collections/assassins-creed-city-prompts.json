@@ -1,0 +1,149 @@
+{
+  "style": "city-miniature-poster",
+  "generator": "built-in image_gen",
+  "scope": "14 original mainline games through Shadows, one representative city each; remakes, DLC and spinoffs excluded. Artistic compressed geography, not archaeological reconstruction.",
+  "style_reference_reviewed": "styles/city-miniature-poster-reference.png",
+  "reference_usage": "Visually reviewed to derive text style instructions; no reference image attached to generation calls.",
+  "entries": [
+    {
+      "id": "01",
+      "slug": "ac-01-jerusalem",
+      "city": "耶路撒冷",
+      "game": "刺客信条",
+      "title": "JERUSALEM",
+      "subtitle": "ASSASSIN'S CREED",
+      "period": "HOLY LAND · 1191",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"JERUSALEM\". Subtitle exactly \"ASSASSIN'S CREED\". Period exactly \"HOLY LAND · 1191\". Subject: late twelfth-century Jerusalem, compact pale limestone flat-roofed city inside medieval defensive walls, Dome of the Rock with a gold-toned dome as the visual anchor, Al-Aqsa mosque, Church of the Holy Sepulchre with medieval domes, winding market alleys, small courtyards, stone gateways and cypress trees. Rocky dry hills suggested behind the city. Warm limestone, muted terracotta, olive green and bright warm afternoon light. No Ottoman-era wall configuration copied literally, no modern Jerusalem landmarks, no modern roads or river."
+    },
+    {
+      "id": "02",
+      "slug": "ac-02-florence",
+      "city": "佛罗伦萨",
+      "game": "刺客信条 II",
+      "title": "FLORENCE",
+      "subtitle": "ASSASSIN'S CREED II",
+      "period": "ITALY · 1476",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"FLORENCE\". Subtitle exactly \"ASSASSIN'S CREED II\". Period exactly \"ITALY · 1476\". Subject: Renaissance Florence, Brunelleschi's terracotta cathedral dome and Giotto's campanile dominate, cathedral front has unfinished medieval facade rather than nineteenth-century neo-Gothic facade. Palazzo Vecchio with tall square tower, Ponte Vecchio lined with medieval workshops across the green Arno, dense ochre buildings and red tiled roofs, courtyards and artisan markets, Tuscan hills. No Uffizi complex, modern bridges, or modern cathedral facade."
+    },
+    {
+      "id": "03",
+      "slug": "ac-03-rome",
+      "city": "罗马",
+      "game": "刺客信条：兄弟会",
+      "title": "ROME",
+      "subtitle": "ASSASSIN'S CREED BROTHERHOOD",
+      "period": "ITALY · 1500",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"ROME\". Subtitle exactly \"ASSASSIN'S CREED BROTHERHOOD\". Period exactly \"ITALY · 1500\". Subject: Borgia-era Rome. Colosseum as dominant worn ancient amphitheater, ruined Roman Forum columns and arches, circular Castel Sant'Angelo beside the Tiber and Ponte Sant'Angelo with simple period parapets, Pantheon intact low dome, tightly packed Renaissance terracotta neighborhoods, cypresses and umbrella pines. Old St Peter's basilica with early Christian roof silhouette only if present, never the later giant Michelangelo dome or Bernini piazza. No modern Victor Emmanuel monument."
+    },
+    {
+      "id": "04",
+      "slug": "ac-04-constantinople",
+      "city": "君士坦丁堡",
+      "game": "刺客信条：启示录",
+      "title": "CONSTANTINOPLE",
+      "subtitle": "ASSASSIN'S CREED REVELATIONS",
+      "period": "OTTOMAN EMPIRE · 1511",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"CONSTANTINOPLE\". Subtitle exactly \"ASSASSIN'S CREED REVELATIONS\". Period exactly \"OTTOMAN EMPIRE · 1511\". Subject: Early Ottoman Constantinople spanning a compressed Golden Horn. Monumental Hagia Sophia with its great central dome, limited early minarets, Galata Tower prominent across the water, Topkapi palace courtyards, aqueduct arches, timber and stone housing, small bazaar canopies, working docks, lateen sailboats. Teal water, pale stone, terracotta and cypress. No Blue Mosque, Suleymaniye Mosque, modern bridges or skyscrapers."
+    },
+    {
+      "id": "05",
+      "slug": "ac-05-boston",
+      "city": "波士顿",
+      "game": "刺客信条 III",
+      "title": "BOSTON",
+      "subtitle": "ASSASSIN'S CREED III",
+      "period": "COLONIAL AMERICA · 1773",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"BOSTON\". Subtitle exactly \"ASSASSIN'S CREED III\". Period exactly \"COLONIAL AMERICA · 1773\". Subject: Revolutionary Boston colonial harbor town. Old State House brick facade and stepped pediments, Faneuil Hall in its smaller eighteenth-century form, Old North Church white steeple, dense modest timber and brick dwellings, cobbled market streets, long wooden wharves, merchant sailing ships and barrels, scattered autumn maples. Harbor blue, brick red, ochre and muted fall foliage. No gold-domed Massachusetts State House, no skyscrapers or modern skyline."
+    },
+    {
+      "id": "06",
+      "slug": "ac-06-havana",
+      "city": "哈瓦那",
+      "game": "刺客信条 IV：黑旗",
+      "title": "HAVANA",
+      "subtitle": "ASSASSIN'S CREED IV BLACK FLAG",
+      "period": "CARIBBEAN · 1715",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"HAVANA\". Subtitle exactly \"ASSASSIN'S CREED IV BLACK FLAG\". Period exactly \"CARIBBEAN · 1715\". Subject: Early eighteenth-century Spanish colonial Havana harbor. El Morro low coastal fortress guarding the bay without its modern tall lighthouse, Castillo de la Real Fuerza star-shaped fortress, Plaza de Armas, low cream and faded pastel courtyard houses with terracotta roofs and wooden balconies, small churches, palms, turquoise sea, period tall-masted wooden sailing ships. Lively quays and rigging. No Capitol building, modern cathedral facade, cars or skyscrapers."
+    },
+    {
+      "id": "07",
+      "slug": "ac-07-new-york",
+      "city": "纽约",
+      "game": "刺客信条：叛变",
+      "title": "NEW YORK",
+      "subtitle": "ASSASSIN'S CREED ROGUE",
+      "period": "COLONIAL AMERICA · 1756",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"NEW YORK\". Subtitle exactly \"ASSASSIN'S CREED ROGUE\". Period exactly \"COLONIAL AMERICA · 1756\". Subject: Mid-eighteenth-century lower Manhattan, compact colonial New York port. Fort George star fort at southern waterfront, original Trinity Church small simple church and steeple, Dutch stepped-gable homes among Georgian brick houses, densely packed timber wharves along both sides of narrow peninsula, rope rigging and wooden merchant ships, muddy cobbled lanes, cool autumn trees. Strong low-rise eighteenth-century silhouette. No skyscrapers, Statue of Liberty, Brooklyn Bridge, modern Trinity Church Gothic tower or modern street furniture."
+    },
+    {
+      "id": "08",
+      "slug": "ac-08-paris",
+      "city": "巴黎",
+      "game": "刺客信条：大革命",
+      "title": "PARIS",
+      "subtitle": "ASSASSIN'S CREED UNITY",
+      "period": "FRANCE · 1789",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"PARIS\". Subtitle exactly \"ASSASSIN'S CREED UNITY\". Period exactly \"FRANCE · 1789\". Subject: French Revolutionary Paris with Seine curving around Ile de la Cite, Notre-Dame's recognizable twin west towers and medieval roof without Viollet-le-Duc's nineteenth-century spire, Sainte-Chapelle, Pont Neuf with period buildings nearby, Louvre royal palace without glass pyramid, dense irregular medieval streets and grey slate roofs, a distant intact Bastille as an artistic early-1789 reference. Tiny revolutionary crowds and restrained tricolor accents, warm sunset. No Eiffel Tower, Sacre-Coeur, Arc de Triomphe or broad Haussmann boulevards."
+    },
+    {
+      "id": "09",
+      "slug": "ac-09-london",
+      "city": "伦敦",
+      "game": "刺客信条：枭雄",
+      "title": "LONDON",
+      "subtitle": "ASSASSIN'S CREED SYNDICATE",
+      "period": "ENGLAND · 1868",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"LONDON\". Subtitle exactly \"ASSASSIN'S CREED SYNDICATE\". Period exactly \"ENGLAND · 1868\". Subject: Victorian industrial London in 1868. Thames and Westminster Bridge, Houses of Parliament and recognizable clock tower with accurate clock face, St Paul's dome, Westminster Abbey, dense brick row houses and busy textile warehouses, coal smoke wisps, steam trains, small horse carriages and river steamboats, wet cobbled streets. Amber light against cool blue-grey river. No Tower Bridge, London Eye, modern high-rises or cars."
+    },
+    {
+      "id": "10",
+      "slug": "ac-10-alexandria",
+      "city": "亚历山大",
+      "game": "刺客信条：起源",
+      "title": "ALEXANDRIA",
+      "subtitle": "ASSASSIN'S CREED ORIGINS",
+      "period": "PTOLEMAIC EGYPT · 48 BCE",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"ALEXANDRIA\". Subtitle exactly \"ASSASSIN'S CREED ORIGINS\". Period exactly \"PTOLEMAIC EGYPT · 48 BCE\". Subject: Hellenistic Alexandria beside brilliant blue Mediterranean. Tall Pharos lighthouse on island, its square lower tier, octagonal middle and small cylindrical summit, connected by long causeway. Royal harbor with Greek-style colonnaded palaces, Great Library as artistic reconstruction of a classical columned scholarly complex with gardens, orderly dense pale stone blocks, Egyptian temples integrated with Greek civic architecture, ancient ships and palms. White limestone, ochre, lapis blue and warm sunlight. No Giza pyramids, Islamic minarets or modern buildings."
+    },
+    {
+      "id": "11",
+      "slug": "ac-11-athens",
+      "city": "雅典",
+      "game": "刺客信条：奥德赛",
+      "title": "ATHENS",
+      "subtitle": "ASSASSIN'S CREED ODYSSEY",
+      "period": "CLASSICAL GREECE · 431 BCE",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"ATHENS\". Subtitle exactly \"ASSASSIN'S CREED ODYSSEY\". Period exactly \"CLASSICAL GREECE · 431 BCE\". Subject: Classical Athens at beginning of Peloponnesian War. Acropolis rocky hill crowned by an intact Parthenon with subtle painted architectural accents, Propylaea entrance, Athena Promachos bronze statue. Agora below with long colonnaded stoas and Temple of Hephaestus, hillside Theatre of Dionysus depicted with modest early seating rather than later monumental Roman masonry, dense low courtyard houses, olive groves and dusty footpaths, distant Attic hills. No ruined Parthenon, modern city, Roman theater facade, finished Erechtheion or Temple of Olympian Zeus in Roman form."
+    },
+    {
+      "id": "12",
+      "slug": "ac-12-lunden",
+      "city": "伦敦城",
+      "game": "刺客信条：英灵殿",
+      "title": "LUNDEN",
+      "subtitle": "ASSASSIN'S CREED VALHALLA",
+      "period": "ANGLO-SAXON ENGLAND · 873",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"LUNDEN\". Subtitle exactly \"ASSASSIN'S CREED VALHALLA\". Period exactly \"ANGLO-SAXON ENGLAND · 873\". Subject: Ninth-century Lunden inside decaying Roman Londinium walls on north bank of Thames. Overgrown shattered Roman stone gateways, broken aqueduct-like masonry and ruined civic columns among humble Saxon timber thatched houses, timber quays, simple wooden bridge, small early stone church, norse longships with striped wool sails, muddy lanes and market stalls, autumn trees. Cold misty morning with golden edges, moss and earthy timber. No Big Ben, Westminster Palace, St Paul's baroque dome, Tower Bridge, Norman Tower of London or modern skyline. Contrast ancient Roman remnants with small living wooden settlement."
+    },
+    {
+      "id": "13",
+      "slug": "ac-13-baghdad",
+      "city": "巴格达",
+      "game": "刺客信条：幻景",
+      "title": "BAGHDAD",
+      "subtitle": "ASSASSIN'S CREED MIRAGE",
+      "period": "ABBASID CALIPHATE · 861",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"BAGHDAD\". Subtitle exactly \"ASSASSIN'S CREED MIRAGE\". Period exactly \"ABBASID CALIPHATE · 861\". Subject: Abbasid Baghdad with monumental Round City as recognizable main structure: concentric circular mudbrick defensive walls and radial streets, central Palace of the Golden Gate with a green dome, adjacent Great Mosque, dense outer quarters with rooftop terraces and courtyards, libraries and scholars' courtyards suggesting House of Wisdom, Tigris flowing along side with simple riverboats and wooden docks, date palms, textile markets. Honey-colored brick, emerald dome, turquoise river, subtle red awnings. No modern skyline, Ottoman mosques, Samarra spiral minaret or oversized modern golden dome."
+    },
+    {
+      "id": "14",
+      "slug": "ac-14-kyoto",
+      "city": "京都",
+      "game": "刺客信条：影",
+      "title": "KYOTO",
+      "subtitle": "ASSASSIN'S CREED SHADOWS",
+      "period": "SENGOKU JAPAN · 1579",
+      "prompt": "Use case: historical-scene. Create ONE premium vertical 4:5 high-detail miniature city panorama poster for an Assassin's Creed main-game city collection. Pure warm white backdrop, top 18 percent is an elegant editorial masthead with oversized black condensed uppercase city title, small game subtitle and period line, a delicate city-specific skyline silhouette. Lower area is a dense beautifully crafted realistic 3D historical city miniature, elevated oblique aerial perspective, continuous coherent urban fabric, on a complete thick dark rectangular display plinth with all front corners visible and white margins. Museum-quality architectural materials and tiny period inhabitants, convincing scale, crisp natural light with subtle atmospheric depth, restrained vivid colors, rich authentic details, clear landmark hierarchy. Compressed artistic geography, not an exact map. No collage panels, modern buildings, modern vehicles, football elements, sports crests, wooden plaques, watermarks, or extra words. This is an original historical city visualization inspired by the game setting, not a screenshot.\nCity title exactly \"KYOTO\". Subtitle exactly \"ASSASSIN'S CREED SHADOWS\". Period exactly \"SENGOKU JAPAN · 1579\". Subject: Late Sengoku Kyoto. Densely layered wooden machiya townhouses with dark tiled roofs and earthen streets, broad Buddhist temple compounds, Yasaka pagoda, imperial palace grounds with restrained traditional roofs and enclosing walls, Kamo River crossed by simple timber bridges, Higashiyama wooded hills, autumn red maples and golden ginkgo, tiny robed townspeople and samurai. Some modest damaged/rebuilt blocks suggest the troubled era, but beautiful living city. No modern Kyoto Tower, trains, giant fantasy castle, Osaka Castle or Edo-period Nijo Castle. Natural timber, muted jade mountains and vermilion details."
+    }
+  ]
+}

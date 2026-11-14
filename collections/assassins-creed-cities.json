@@ -1,0 +1,249 @@
+{
+  "title": "Assassin's Creed mainline representative cities",
+  "date": "2026-11-15",
+  "style": "city-miniature-poster",
+  "generator": "built-in image_gen",
+  "scope": "14 original mainline games through Shadows, one representative city each; remakes, DLC and spinoffs excluded. Artistic compressed geography, not archaeological reconstruction.",
+  "requested": 14,
+  "completed": 14,
+  "style_reference_reviewed": "styles/city-miniature-poster-reference.png",
+  "reference_usage": "Visually reviewed to derive text style instructions; no reference image attached to generation calls.",
+  "sources": [
+    {
+      "title": "系列现状与重制版说明",
+      "url": "https://news.ubisoft.com/en-us/article/62QaxfV8LiDWqVSoyROYFA/assassins-creed-fall-2026-update"
+    },
+    {
+      "title": "主作发行顺序与背景汇总",
+      "url": "https://www.gamesradar.com/games/assassins-creed-games-in-order/"
+    },
+    {
+      "title": "《起源》中的亚历山大",
+      "url": "https://news.ubisoft.com/en-au/article/7C3US71JxKxXH5HgoP3n6n/assassins-creed-odyssey-and-origins-featured-at-museum-of-cycladic-art-of-athens"
+    },
+    {
+      "title": "《奥德赛》的古雅典",
+      "url": "https://news.ubisoft.com/en-us/article/4FMb4TjIOvy3DB4WlLfLGE/assassins-creed-odyssey-the-secrets-of-ancient-greece-uncovered-video-series"
+    },
+    {
+      "title": "《幻景》的巴格达与年代",
+      "url": "https://news.ubisoft.com/en-us/article/OdmNeoYjCSPewU2FGDBDZ/assassins-creed-mirage-the-evolution-of-the-brotherhood"
+    },
+    {
+      "title": "《影》的京都街区",
+      "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/4TA6gKaTvtOC1mOjZIxCZd"
+    }
+  ],
+  "items": [
+    {
+      "id": "01",
+      "game": "刺客信条",
+      "city": "耶路撒冷",
+      "period": "HOLY LAND · 1191",
+      "title": "刺客信条：耶路撒冷",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-01-jerusalem.png",
+      "prompt": "prompts/city-miniature-poster/ac-01-jerusalem.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "c532c227bd5cce60d1613a1772efe5643eac1c967b3eeabd6e4f6924cd849a20"
+    },
+    {
+      "id": "02",
+      "game": "刺客信条 II",
+      "city": "佛罗伦萨",
+      "period": "ITALY · 1476",
+      "title": "刺客信条 II - 佛罗伦萨",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-02-florence.png",
+      "prompt": "prompts/city-miniature-poster/ac-02-florence.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "f0743254d855da2501c77bf4f168dbcb1a3620bdb8c445d4ec135f9e254daa24"
+    },
+    {
+      "id": "03",
+      "game": "刺客信条：兄弟会",
+      "city": "罗马",
+      "period": "ITALY · 1500",
+      "title": "刺客信条：兄弟会 - 罗马",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-03-rome.png",
+      "prompt": "prompts/city-miniature-poster/ac-03-rome.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "c9e7c7eda1bcbf9bfb804e5a7207a6e61efe9736464783c03a38028a7c5c48c8"
+    },
+    {
+      "id": "04",
+      "game": "刺客信条：启示录",
+      "city": "君士坦丁堡",
+      "period": "OTTOMAN EMPIRE · 1511",
+      "title": "刺客信条：启示录 - 君士坦丁堡",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-04-constantinople.png",
+      "prompt": "prompts/city-miniature-poster/ac-04-constantinople.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "79974e8cecdd02672edf5684d2c72755995a7d1eefae7b88e8912f6ddb0fc618"
+    },
+    {
+      "id": "05",
+      "game": "刺客信条 III",
+      "city": "波士顿",
+      "period": "COLONIAL AMERICA · 1773",
+      "title": "刺客信条 III - 波士顿",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-05-boston.png",
+      "prompt": "prompts/city-miniature-poster/ac-05-boston.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "f47a126f315509eb87a7b0874112f5a9cf3cacf5e4959ff69bd119fa2befebb6"
+    },
+    {
+      "id": "06",
+      "game": "刺客信条 IV：黑旗",
+      "city": "哈瓦那",
+      "period": "CARIBBEAN · 1715",
+      "title": "刺客信条 IV：黑旗 - 哈瓦那",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-06-havana.png",
+      "prompt": "prompts/city-miniature-poster/ac-06-havana.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "b5ffb89122d414ab5ed1f3b587dd26f5a0623c8bc75449a9586611de04614a32"
+    },
+    {
+      "id": "07",
+      "game": "刺客信条：叛变",
+      "city": "纽约",
+      "period": "COLONIAL AMERICA · 1756",
+      "title": "刺客信条：叛变 - 纽约",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-07-new-york.png",
+      "prompt": "prompts/city-miniature-poster/ac-07-new-york.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "bb762752a264a17472333ee51e291c2aa4a39bae1e3e0cbaf04559aa6e92d0b2"
+    },
+    {
+      "id": "08",
+      "game": "刺客信条：大革命",
+      "city": "巴黎",
+      "period": "FRANCE · 1789",
+      "title": "刺客信条：大革命 - 巴黎",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-08-paris.png",
+      "prompt": "prompts/city-miniature-poster/ac-08-paris.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "cce684f801abb6bf672a40fd2f2fb8bd6ef6faf84c8f2c06b4b145efd1307d05"
+    },
+    {
+      "id": "09",
+      "game": "刺客信条：枭雄",
+      "city": "伦敦",
+      "period": "ENGLAND · 1868",
+      "title": "刺客信条：枭雄 - 伦敦",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-09-london.png",
+      "prompt": "prompts/city-miniature-poster/ac-09-london.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "bdf1b5db97ed3c63312d824ba8d57d8ca580c8efacedd0d3c74e2a851c016e5c"
+    },
+    {
+      "id": "10",
+      "game": "刺客信条：起源",
+      "city": "亚历山大",
+      "period": "PTOLEMAIC EGYPT · 48 BCE",
+      "title": "刺客信条：起源 - 亚历山大",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-10-alexandria.png",
+      "prompt": "prompts/city-miniature-poster/ac-10-alexandria.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9cf458de1fadfaf3f7c264462a8db5280aee8c0e8c49eaef21c7839e23640227"
+    },
+    {
+      "id": "11",
+      "game": "刺客信条：奥德赛",
+      "city": "雅典",
+      "period": "CLASSICAL GREECE · 431 BCE",
+      "title": "刺客信条：奥德赛 - 雅典",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-11-athens.png",
+      "prompt": "prompts/city-miniature-poster/ac-11-athens.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "c4d792d4afc8b78bf9b80aac16e28fb6c5d09ed0162271a9780017e6d733948f"
+    },
+    {
+      "id": "12",
+      "game": "刺客信条：英灵殿",
+      "city": "伦敦城",
+      "period": "ANGLO-SAXON ENGLAND · 873",
+      "title": "刺客信条：英灵殿 - 伦敦城",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-12-lunden.png",
+      "prompt": "prompts/city-miniature-poster/ac-12-lunden.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "f9b0a9b85490f1b2c5e03b292cd1dd06de7d2180f5485e5389c6e227ea5febef"
+    },
+    {
+      "id": "13",
+      "game": "刺客信条：幻景",
+      "city": "巴格达",
+      "period": "ABBASID CALIPHATE · 861",
+      "title": "刺客信条：幻景 - 巴格达",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-13-baghdad.png",
+      "prompt": "prompts/city-miniature-poster/ac-13-baghdad.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "fb4791363949c1e37547e1f548b5559ce9e4fbfb1506501f464945d1ac66249b"
+    },
+    {
+      "id": "14",
+      "game": "刺客信条：影",
+      "city": "京都",
+      "period": "SENGOKU JAPAN · 1579",
+      "title": "刺客信条：影 - 京都",
+      "style": "city-miniature-poster",
+      "image": "images/city-miniature-posters/ac-14-kyoto.png",
+      "prompt": "prompts/city-miniature-poster/ac-14-kyoto.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "e9f3bae99a84fe01d92837336f7c589a97be7f4fffae838f977f587057c27e5f"
+    }
+  ]
+}

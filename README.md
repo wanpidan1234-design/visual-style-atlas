@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、30 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成。
+当前收录 **4 种风格、44 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成。
 
 ## 风格目录
 
@@ -12,8 +12,16 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | --- | --- | --- | --- |
 | [微缩沙盘鸟瞰全景](styles/STYLE_GUIDE.md) | 暖白纸背景、独立模型底座、细密景观、木质铭牌 | 10 张球场图 | [完整提示词](prompts/stadium-prompts.json) |
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
-| [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦城市全景 | [完整提示词](prompts/liverpool-city-poster.json) |
+| [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦及刺客信条 14 座代表城市 | [利物浦](prompts/liverpool-city-poster.json) · [刺客信条](collections/assassins-creed-city-prompts.json) |
 | [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南、樱花山林、郴州与古龙峡 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+
+## 刺客信条：历代主作代表城市
+
+已完成 14 张独立城市微缩海报，从初代耶路撒冷到《影》的京都，每部主作选一座代表城市，重制版、DLC 与外传不重复计入。两代伦敦分别呈现《枭雄》的维多利亚时代与《英灵殿》的 Lunden。
+
+[浏览完整图集](collections/assassins-creed-cities.md) · [实际提示词](collections/assassins-creed-city-prompts.json) · [作品清单与资料来源](collections/assassins-creed-cities.json)
+
+<a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-04-constantinople.png" width="350" alt="君士坦丁堡城市微缩海报"></a> <a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-14-kyoto.png" width="350" alt="京都城市微缩海报"></a>
 
 ## 复古水彩文旅海报
 
@@ -103,6 +111,6 @@ catalog.json
 image-verification.json
 ```
 
-`image-verification.json` 记录全部 30 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
+`image-verification.json` 记录全部 44 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
 
 诺坎普采用经典改建前外观；米兰双雄为同一球场的不同球队氛围版本。图像和细节分图属于艺术化表现，地理距离可为构图压缩，不作为精确地图或建筑工程图。

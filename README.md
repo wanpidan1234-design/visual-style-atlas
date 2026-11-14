@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **3 种风格、21 张成图、3 张参考图**，成图均由内置 `image_gen` 生成。
+当前收录 **4 种风格、23 张成图、4 张参考图**，成图均由内置 `image_gen` 生成。
 
 ## 风格目录
 
@@ -13,6 +13,15 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | [微缩沙盘鸟瞰全景](styles/STYLE_GUIDE.md) | 暖白纸背景、独立模型底座、细密景观、木质铭牌 | 10 张球场图 | [完整提示词](prompts/stadium-prompts.json) |
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
 | [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦城市全景 | [完整提示词](prompts/liverpool-city-poster.json) |
+| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国与云南文旅海报 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+
+## 复古水彩文旅海报
+
+| 美国 | 云南 |
+| --- | --- |
+| <a href="images/vintage-watercolor-travel-collage/united-states-travel-poster.png"><img src="images/vintage-watercolor-travel-collage/united-states-travel-poster.png" width="360" alt="美国复古水彩文旅海报"></a> | <a href="images/vintage-watercolor-travel-collage/yunnan-travel-poster.png"><img src="images/vintage-watercolor-travel-collage/yunnan-travel-poster.png" width="360" alt="云南复古水彩文旅海报"></a> |
+
+实际提示词：[美国复古水彩文旅海报](prompts/vintage-watercolor-travel-collage/united-states-travel-poster.json) · [云南复古水彩文旅海报](prompts/vintage-watercolor-travel-collage/yunnan-travel-poster.json)
 
 ## 利物浦城市全景
 
@@ -46,7 +55,9 @@ Reusable visual styles, references, prompts, and generated examples across subje
 
 ## 可复用 Skill
 
-项目包含可安装的 [visual-style-atlas skill](skills/visual-style-atlas/SKILL.md)，提供上面三种风格选项，覆盖主题替换、参考图使用、批量生成、视觉检查和完整归档。
+项目包含可安装的 [visual-style-atlas skill](skills/visual-style-atlas/SKILL.md)，提供上面四种风格选项，覆盖主题替换、参考图使用、批量生成、视觉检查和完整归档。
+
+新风格自动入库：提供新参考用于生成或保存时，自动保存原图、提炼通用模板，更新风格目录与 skill 选项，并同步本机安装副本。风格持续追加，主题变化沿用已有风格；所有成图和实际提示词均保存在项目中。
 
 把 `skills/visual-style-atlas` 文件夹复制到个人 Codex skills 目录后，可这样调用：
 
@@ -55,7 +66,7 @@ Reusable visual styles, references, prompts, and generated examples across subje
 用 $visual-style-atlas 的复古建筑手绘风格，为这三座建筑各生成一张。
 ```
 
-`scripts/register_image.py` 归档脚本需要 Python 和 Pillow；它只复制与校验图片，记录提示词和更新索引，不调用生成 API。生成和保存不自动授权提交或公开发布。
+`scripts/register_image.py` 归档脚本需要 Python 和 Pillow；它只复制与校验图片，记录提示词和更新索引，不调用生成 API。本项目按 [AGENTS.md](AGENTS.md) 在代码及 skill 修改完成并检查通过后自动提交、直接推送，默认不创建 PR；其他项目遵循各自的规则和用户授权。
 
 ## 文件组织
 
@@ -71,6 +82,6 @@ catalog.json
 image-verification.json
 ```
 
-`image-verification.json` 记录全部 21 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
+`image-verification.json` 记录全部 23 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
 
 诺坎普采用经典改建前外观；米兰双雄为同一球场的不同球队氛围版本。图像和细节分图属于艺术化表现，地理距离可为构图压缩，不作为精确地图或建筑工程图。

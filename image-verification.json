@@ -166,5 +166,21 @@
       1254
     ],
     "sha256": "50b6a360b6a46a151cf3b627e10661511d355fa86e60d932396a883b97d5eadb"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/united-states-travel-poster.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "90708775a9d893c8d8b02f91221fdbb5dfbce2ce84ab3c59a3a046c912191f4e"
+  },
+  {
+    "file": "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "2085303b8942e94049022cf1b6dd2b4cef5aa585df2575ca0d5062c3c3476172"
   }
 ]

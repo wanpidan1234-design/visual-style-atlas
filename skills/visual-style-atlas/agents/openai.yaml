@@ -1,4 +1,4 @@
 interface:
   display_name: "Visual Style Atlas"
-  short_description: "Generate images with three reusable visual styles"
+  short_description: "Generate images and grow a reusable visual style library"
   default_prompt: "Use $visual-style-atlas to generate an image in a saved visual style and archive it in the project."

@@ -36,3 +36,10 @@ Create a square vintage architectural study sheet of [BUILDING / STADIUM] in [CI
 完整通用模板见 [CITY_MINIATURE_POSTER.md](CITY_MINIATURE_POSTER.md)。白底竖版海报、超大凝练标题、顶部小型天际线、下方高细节立体城市沙盘与深色底座。风格适用于城市、景区、校园、文化主题与其他地理场景，不绑定足球或球队。
 
 首个示例：`images/city-miniature-posters/liverpool-city-panorama.png`，以利物浦城市地标为主景。
+
+
+## 04 复古水彩文旅拼景海报
+
+参考图：`vintage-watercolor-travel-collage-reference.png`
+
+完整规则与通用模板见 [vintage-watercolor-travel-collage.md](vintage-watercolor-travel-collage.md)。旧纸水彩、超大衬线标题、云雾过渡的多地标景观、自然与文化静物融合；适用于各地文旅主题。已生成美国与云南两张文旅海报，成图位于 `images/vintage-watercolor-travel-collage/`。

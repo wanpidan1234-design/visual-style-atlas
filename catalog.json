@@ -50,6 +50,41 @@
         "images/city-miniature-posters/liverpool-city-panorama.png"
       ],
       "prompts": "prompts/liverpool-city-poster.json"
+    },
+    {
+      "id": "vintage-watercolor-travel-collage",
+      "name": "复古水彩文旅拼景海报",
+      "reference": "styles/vintage-watercolor-travel-collage-reference.png",
+      "guide": "styles/vintage-watercolor-travel-collage.md",
+      "images": [
+        "images/vintage-watercolor-travel-collage/united-states-travel-poster.png",
+        "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png"
+      ],
+      "prompts": "prompts/vintage-watercolor-travel-collage-template.json"
+    }
+  ],
+  "items": [
+    {
+      "title": "美国复古水彩文旅海报",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/united-states-travel-poster.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/united-states-travel-poster.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "90708775a9d893c8d8b02f91221fdbb5dfbce2ce84ab3c59a3a046c912191f4e"
+    },
+    {
+      "title": "云南复古水彩文旅海报",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/yunnan-travel-poster.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "2085303b8942e94049022cf1b6dd2b4cef5aa585df2575ca0d5062c3c3476172"
     }
   ]
 }

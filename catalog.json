@@ -58,7 +58,8 @@
       "guide": "styles/vintage-watercolor-travel-collage.md",
       "images": [
         "images/vintage-watercolor-travel-collage/united-states-travel-poster.png",
-        "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png"
+        "images/vintage-watercolor-travel-collage/yunnan-travel-poster.png",
+        "images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png"
       ],
       "prompts": "prompts/vintage-watercolor-travel-collage-template.json"
     }
@@ -85,6 +86,17 @@
         1402
       ],
       "sha256": "2085303b8942e94049022cf1b6dd2b4cef5aa585df2575ca0d5062c3c3476172"
+    },
+    {
+      "title": "樱花山林水彩海报",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.json",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "e16d0456b79835bb088d0f7d3c23a8179e749ba6533a0f7aaa4b58149598805f"
     }
   ]
 }

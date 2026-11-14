@@ -1,0 +1,22 @@
+{
+  "title": "樱花山林水彩海报",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png",
+  "generator": "built-in image_gen",
+  "prompt": "Use case: stylized-concept, photo-to-illustration style transfer. Create ONE tall vertical 2:3 premium vintage watercolor travel poster based on the supplied cherry-blossom photograph. INPUT ROLES: Image 1 is the SUBJECT AND COMPOSITION reference; preserve its red-roofed traditional timber building, dense pink flowering tree canopies, dark evergreen trees and wooded hillside. Image 2 is the STYLE reference only, for its aged ivory paper, exquisite watercolor and ink detail, atmospheric softness, elegant serif title and restrained border. Do NOT import any landmarks or objects from Image 2.\n\nFaithfully reinterpret the actual scene in Image 1: an ornate steep red gabled roof with pale trim partly hidden in a huge sea of pale pink cherry blossoms, positioned in the upper-left quarter; dark sculptural conifer trees on the right and at the left edge, and a wooded spring hillside in the background. The cherry blossom canopy should occupy most of the middle and lower composition, with beautifully intricate branches and clusters of petals. Preserve the visual contrast of vermilion roofs, luminous blush-pink blossoms and deep forest-green evergreens. Retain recognizable roof geometry, layered upward-curving eaves and the dominant right-side evergreen. Do not turn the building into a pagoda or a different temple.\n\nRender the whole scene as a carefully hand-painted flat illustration with fine realistic pen details and delicately transparent watercolor washes, mineral greens, faded rose, warm ivory and muted vermilion. Soft atmospheric mist gently separates the trees. Warm subtle paper grain shows through highlights; small outer edges dissolve into bare paper. The abundant cherry trees remain the visual focus, rich in texture and convincing botanical detail. Peaceful springtime, lyrical but realistic, luxurious collectible travel-poster quality, no photorealistic camera grain, no 3D display plinth, no collage panels.\n\nIntegrate a small quiet heading band into the very top so the image still fills nearly the whole page. Exact typography: small tasteful Chinese brush title \"樱花山林\", below it large elegant antique-brown serif \"SAKURA\", below that a small spaced serif subtitle \"A FOREST IN BLOOM\". A very subtle fine-line corner ornament is optional. No other labels or footer, no place name, no invented location, no landmark collage, no food or tea still life, no people added, no watermark. Match the restrained watercolor poster language of Image 2 while preserving the photographic subject and asymmetrical composition of Image 1.\n",
+  "references": [
+    "styles/references/vintage-watercolor-travel-collage-12e6470cebe31a76.png",
+    "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png"
+  ],
+  "reference_roles": [
+    {
+      "image": "styles/references/vintage-watercolor-travel-collage-12e6470cebe31a76.png",
+      "role": "subject-and-composition"
+    },
+    {
+      "image": "styles/references/vintage-watercolor-travel-collage-b49315dd906c4cc2.png",
+      "role": "visual-style-only"
+    }
+  ],
+  "location": "unspecified"
+}

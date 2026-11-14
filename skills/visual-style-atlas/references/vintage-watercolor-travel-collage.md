@@ -37,6 +37,6 @@ Use a few delicate handwritten place labels only where requested: [SHORT_LABELS]
 
 ## 当前状态
 
-已收录原始参考图、通用提示词模板，以及美国与云南两张文旅海报。项目成图位于 `images/vintage-watercolor-travel-collage/`，逐张实际提示词位于 `prompts/vintage-watercolor-travel-collage/`。
+已收录原始参考图、通用提示词模板、文旅海报和照片转绘示例；具体作品以项目 `catalog.json` 为准。项目成图位于 `images/vintage-watercolor-travel-collage/`，逐张实际提示词位于 `prompts/vintage-watercolor-travel-collage/`。
 
 参考图：`../assets/vintage-watercolor-travel-collage-reference.png`

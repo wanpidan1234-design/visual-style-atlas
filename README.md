@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、23 张成图、4 张参考图**，成图均由内置 `image_gen` 生成。
+当前收录 **4 种风格、24 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成。
 
 ## 风格目录
 
@@ -13,7 +13,7 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | [微缩沙盘鸟瞰全景](styles/STYLE_GUIDE.md) | 暖白纸背景、独立模型底座、细密景观、木质铭牌 | 10 张球场图 | [完整提示词](prompts/stadium-prompts.json) |
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
 | [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦城市全景 | [完整提示词](prompts/liverpool-city-poster.json) |
-| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国与云南文旅海报 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南与樱花山林 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
 
 ## 复古水彩文旅海报
 
@@ -22,6 +22,14 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | <a href="images/vintage-watercolor-travel-collage/united-states-travel-poster.png"><img src="images/vintage-watercolor-travel-collage/united-states-travel-poster.png" width="360" alt="美国复古水彩文旅海报"></a> | <a href="images/vintage-watercolor-travel-collage/yunnan-travel-poster.png"><img src="images/vintage-watercolor-travel-collage/yunnan-travel-poster.png" width="360" alt="云南复古水彩文旅海报"></a> |
 
 实际提示词：[美国复古水彩文旅海报](prompts/vintage-watercolor-travel-collage/united-states-travel-poster.json) · [云南复古水彩文旅海报](prompts/vintage-watercolor-travel-collage/yunnan-travel-poster.json)
+
+## 樱花山林：照片转绘
+
+将用户提供的红顶建筑与樱花山林照片转绘为风格 4，保留主体和构图；未标注未经确认的地点。
+
+<a href="images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png"><img src="images/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.png" width="480" alt="樱花山林水彩海报"></a>
+
+[主体原始照片](styles/references/vintage-watercolor-travel-collage-12e6470cebe31a76.png) · [实际提示词与参考角色](prompts/vintage-watercolor-travel-collage/sakura-forest-watercolor-poster.json)
 
 ## 利物浦城市全景
 
@@ -82,6 +90,6 @@ catalog.json
 image-verification.json
 ```
 
-`image-verification.json` 记录全部 23 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
+`image-verification.json` 记录全部 24 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
 
 诺坎普采用经典改建前外观；米兰双雄为同一球场的不同球队氛围版本。图像和细节分图属于艺术化表现，地理距离可为构图压缩，不作为精确地图或建筑工程图。

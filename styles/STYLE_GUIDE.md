@@ -42,4 +42,4 @@ Create a square vintage architectural study sheet of [BUILDING / STADIUM] in [CI
 
 参考图：`vintage-watercolor-travel-collage-reference.png`
 
-完整规则与通用模板见 [vintage-watercolor-travel-collage.md](vintage-watercolor-travel-collage.md)。旧纸水彩、超大衬线标题、云雾过渡的多地标景观、自然与文化静物融合；适用于各地文旅主题。已生成美国与云南两张文旅海报，成图位于 `images/vintage-watercolor-travel-collage/`。
+完整规则与通用模板见 [vintage-watercolor-travel-collage.md](vintage-watercolor-travel-collage.md)。旧纸水彩、超大衬线标题、云雾过渡的多地标景观、自然与文化静物融合；适用于各地文旅主题。已有文旅海报与照片转绘示例，成图位于 `images/vintage-watercolor-travel-collage/`。

@@ -1,0 +1,15 @@
+{
+  "title": "神雕侠侣 · 襄阳大战",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png",
+  "generator": "built-in image_gen",
+  "prompt": "Edit this watercolor poster only to correct Yang Guo's anatomy in the large foreground figure. Keep ALL Chinese and English lettering, border, paper, city, river, mountains, armies, mounted commander, lighting and overall composition unchanged. Replace ONLY the foreground Yang Guo figure with a THREE-QUARTER FRONT VIEW, his chest and diagonal front robe lapels clearly visible, face turned toward screen right. His anatomically LEFT shoulder is on SCREEN RIGHT and his LEFT arm extends from there toward the upper right in the same stone-throwing gesture. His anatomically RIGHT shoulder is on SCREEN LEFT, with an empty short dark sleeve and NO right forearm or hand. One arm only. Show the front of his torso, NOT his back: this is essential to correct left/right anatomy while keeping the throw directed rightward. Keep his dark windblown robe, hero scale, feet on same rocky ridge, fine pen-and-watercolor style. No changes elsewhere.",
+  "references": [
+    "images/variants/condor-heroes/sd-01-xiangyang-battle-v1.png"
+  ],
+  "style_guide": "styles/vintage-watercolor-travel-collage.md",
+  "reference_roles": {
+    "images/variants/condor-heroes/sd-01-xiangyang-battle-v1.png": "edit target"
+  },
+  "initial_prompt_source": "collections/condor-heroes-prompts.json"
+}

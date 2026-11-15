@@ -102,7 +102,15 @@
         "images/vintage-watercolor-travel-collage/chenzhou-mangshan-wuzhifeng.png",
         "images/vintage-watercolor-travel-collage/gulongxia-feilong-rapids.png",
         "images/vintage-watercolor-travel-collage/gulongxia-forest-rafting.png",
-        "images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png"
+        "images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png",
+        "images/vintage-watercolor-travel-collage/sd-03-ocean-sword.png",
+        "images/vintage-watercolor-travel-collage/sd-04-chongyang-palace.png",
+        "images/vintage-watercolor-travel-collage/sd-05-mount-hua.png",
+        "images/vintage-watercolor-travel-collage/sd-06-samarkand.png",
+        "images/vintage-watercolor-travel-collage/sd-07-steppe-eagles.png",
+        "images/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.png",
+        "images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png",
+        "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png"
       ],
       "prompts": "prompts/vintage-watercolor-travel-collage-template.json"
     }
@@ -613,6 +621,94 @@
         1402
       ],
       "sha256": "654b5326a97bf14cd99c52aa064588f629f4de02f3892b07e4b09eaaa5695409"
+    },
+    {
+      "title": "神雕侠侣 · 海潮练剑",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-03-ocean-sword.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-03-ocean-sword.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9594040388437173cbd74c46828e39b8e7dc3e8a99dac8ec1ce77494acce46cb"
+    },
+    {
+      "title": "神雕侠侣 · 重阳宫",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-04-chongyang-palace.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-04-chongyang-palace.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d66a5ba1d9d5db14b36f131a43dae8eb313659fa6172a518a3578c9b113c1c66"
+    },
+    {
+      "title": "射雕英雄传 · 华山论剑",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-05-mount-hua.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-05-mount-hua.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "4e71b4826223d54ef1f2499a6c7402edbc1f1d1ace02ee48237f56338ceb3418"
+    },
+    {
+      "title": "射雕英雄传 · 西征撒马尔罕",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-06-samarkand.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-06-samarkand.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0f08349a11007e8d710c6b9d6f472999d204f55b351822badba398b02ed91503"
+    },
+    {
+      "title": "射雕英雄传 · 大漠射雕",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-07-steppe-eagles.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-07-steppe-eagles.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "4e83fe8f53e83e4292fa144b8bb466f37c084a6088be476b88d816dafd545de2"
+    },
+    {
+      "title": "射雕英雄传 · 桃花岛",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "e83041ebcf4ed287006e8bc709ddcbf218f836efd4b835769730b8d114f596d8"
+    },
+    {
+      "title": "神雕侠侣 · 襄阳大战",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "8a2ec28c4450bfb04e588ed4ece7b2d9e1696929f5bcf3261ca3b2cc5b6ac5f2"
+    },
+    {
+      "title": "神雕侠侣 · 断肠崖",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d57d99dc976bade52473ed865fa7917c79bbe1951eab7fded05e20ab769cc02b"
     }
   ]
 }

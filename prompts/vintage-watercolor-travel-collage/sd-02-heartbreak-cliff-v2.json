@@ -1,0 +1,15 @@
+{
+  "title": "神雕侠侣 · 断肠崖",
+  "style": "vintage-watercolor-travel-collage",
+  "image": "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png",
+  "generator": "built-in image_gen",
+  "prompt": "Make one precise local edit to this watercolor poster. Horizontally mirror ONLY the small standing Yang Guo figure in place within its existing bounding box, including his head, robe, arm and boots. Do NOT mirror or move any other image content. He is seen from BEHIND. After the edit, his visible surviving LEFT hand must hang on SCREEN LEFT of his torso, while the empty RIGHT sleeve must be on SCREEN RIGHT. He has NO right forearm or right hand. Keep his head facing into the valley, same figure size and ledge location, same watercolor detail. Preserve the entire landscape, cliff, all buildings, waterfalls, pines, sunset, border and every Chinese and English character exactly as they are.",
+  "references": [
+    "images/variants/condor-heroes/sd-02-heartbreak-cliff-v1.png"
+  ],
+  "style_guide": "styles/vintage-watercolor-travel-collage.md",
+  "reference_roles": {
+    "images/variants/condor-heroes/sd-02-heartbreak-cliff-v1.png": "edit target"
+  },
+  "initial_prompt_source": "collections/condor-heroes-prompts.json"
+}

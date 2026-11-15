@@ -1,0 +1,168 @@
+{
+  "title": "射雕与神雕·江湖八景",
+  "style": "vintage-watercolor-travel-collage",
+  "generator": "built-in image_gen",
+  "date": "2026-11-15",
+  "status": "complete",
+  "items": [
+    {
+      "number": 1,
+      "novel": "神雕侠侣",
+      "scene": "襄阳大战",
+      "title": "神雕侠侣 · 襄阳大战",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "8a2ec28c4450bfb04e588ed4ece7b2d9e1696929f5bcf3261ca3b2cc5b6ac5f2"
+    },
+    {
+      "number": 2,
+      "novel": "神雕侠侣",
+      "scene": "断肠崖",
+      "title": "神雕侠侣 · 断肠崖",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d57d99dc976bade52473ed865fa7917c79bbe1951eab7fded05e20ab769cc02b"
+    },
+    {
+      "number": 3,
+      "novel": "神雕侠侣",
+      "scene": "海潮练剑",
+      "title": "神雕侠侣 · 海潮练剑",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-03-ocean-sword.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-03-ocean-sword.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9594040388437173cbd74c46828e39b8e7dc3e8a99dac8ec1ce77494acce46cb"
+    },
+    {
+      "number": 4,
+      "novel": "神雕侠侣",
+      "scene": "重阳宫",
+      "title": "神雕侠侣 · 重阳宫",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-04-chongyang-palace.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-04-chongyang-palace.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d66a5ba1d9d5db14b36f131a43dae8eb313659fa6172a518a3578c9b113c1c66"
+    },
+    {
+      "number": 5,
+      "novel": "射雕英雄传",
+      "scene": "华山论剑",
+      "title": "射雕英雄传 · 华山论剑",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-05-mount-hua.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-05-mount-hua.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "4e71b4826223d54ef1f2499a6c7402edbc1f1d1ace02ee48237f56338ceb3418"
+    },
+    {
+      "number": 6,
+      "novel": "射雕英雄传",
+      "scene": "西征撒马尔罕",
+      "title": "射雕英雄传 · 西征撒马尔罕",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-06-samarkand.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-06-samarkand.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0f08349a11007e8d710c6b9d6f472999d204f55b351822badba398b02ed91503"
+    },
+    {
+      "number": 7,
+      "novel": "射雕英雄传",
+      "scene": "大漠射雕",
+      "title": "射雕英雄传 · 大漠射雕",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-07-steppe-eagles.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-07-steppe-eagles.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "4e83fe8f53e83e4292fa144b8bb466f37c084a6088be476b88d816dafd545de2"
+    },
+    {
+      "number": 8,
+      "novel": "射雕英雄传",
+      "scene": "桃花岛",
+      "title": "射雕英雄传 · 桃花岛",
+      "style": "vintage-watercolor-travel-collage",
+      "image": "images/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.png",
+      "prompt": "prompts/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "e83041ebcf4ed287006e8bc709ddcbf218f836efd4b835769730b8d114f596d8"
+    }
+  ],
+  "variants": [
+    {
+      "file": "images/variants/condor-heroes/sd-01-xiangyang-battle-v1.png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "4a9b1d3f14da8dc0f60b4589e16aced188bd7a8fcde24a6bccf96816ad5bc8a4",
+      "status": "superseded",
+      "reason": "杨过手臂左右关系需要修正",
+      "prompt_source": "collections/condor-heroes-prompts.json",
+      "prompt_item": "sd-01-xiangyang-battle",
+      "superseded_by": "images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png"
+    },
+    {
+      "file": "images/variants/condor-heroes/sd-02-heartbreak-cliff-v1.png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "6bdd45f6a8450ac2cdc150d85c8a572a641ed74c84e4d25293d7a72337c56a0f",
+      "status": "superseded",
+      "reason": "杨过手臂左右关系需要修正",
+      "prompt_source": "collections/condor-heroes-prompts.json",
+      "prompt_item": "sd-02-heartbreak-cliff",
+      "superseded_by": "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png"
+    }
+  ],
+  "notes": [
+    "八张均为小说场景的艺术化演绎，建筑布局、地理距离与人物比例服务于构图。",
+    "初选清单中的“郭靖钱塘观潮悟掌”未找到可靠原著依据，已更正为“大漠射雕”。",
+    "华山论剑采用第一次五绝聚会的意象；段智兴以南帝身份出现。",
+    "海潮练剑采用木剑；襄阳大战与断肠崖初稿的手臂左右关系已通过 image_gen 修正。",
+    "风格依据项目已有水彩模板，以文字提示词生成；未把风格参考图作为工具图片输入。"
+  ],
+  "sources": [
+    {
+      "url": "https://shendiao.5000yan.com/42000.html",
+      "title": "神雕侠侣 第三十二回 情是何物",
+      "supports": "海潮练剑的木剑与神雕情节。"
+    },
+    {
+      "url": "https://msb.zjol.com.cn/html/2024-03/30/content_4217750.htm?div=-1",
+      "title": "美术报：金庸与故乡",
+      "supports": "钱塘潮与金庸作品的关系；不作为郭靖观潮悟掌的依据。"
+    }
+  ]
+}

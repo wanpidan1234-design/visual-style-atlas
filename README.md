@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、67 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成或编辑。
+当前收录 **4 种风格、75 张成图、5 张参考图（含 1 张主体照片），另保留 2 张返工初稿**，成图均由内置 `image_gen` 生成或编辑。
 
 ## 风格目录
 
@@ -13,7 +13,15 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | [微缩沙盘鸟瞰全景](styles/STYLE_GUIDE.md) | 暖白纸背景、独立模型底座、细密景观、木质铭牌 | 10 张球场图 | [完整提示词](prompts/stadium-prompts.json) |
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
 | [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦及刺客信条 18 个城市场景的中英文版 | [利物浦](prompts/liverpool-city-poster.json) · [刺客信条首批](collections/assassins-creed-city-prompts.json) · [补充与中文](collections/assassins-creed-expansion-prompts.json) |
-| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南、樱花山林、郴州与古龙峡 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+| [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南、樱花山林、郴州、古龙峡及武侠八景 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+
+## 射雕与神雕：江湖八景
+
+新增八张复古水彩海报：襄阳大战、断肠崖、海潮练剑、重阳宫、华山论剑、西征撒马尔罕、大漠射雕、桃花岛。
+
+[浏览完整图集](collections/condor-heroes-watercolor.md) · [作品清单与校验](collections/condor-heroes-watercolor.json) · [生成提示词](collections/condor-heroes-prompts.json) · [局部修正提示词](collections/condor-heroes-edit-prompts.json)
+
+<a href="collections/condor-heroes-watercolor.md"><img src="images/vintage-watercolor-travel-collage/sd-01-xiangyang-battle-v2.png" width="350" alt="襄阳大战"></a> <a href="collections/condor-heroes-watercolor.md"><img src="images/vintage-watercolor-travel-collage/sd-08-peach-blossom-island.png" width="350" alt="桃花岛"></a>
 
 ## 刺客信条：历代主作代表城市
 
@@ -119,6 +127,6 @@ catalog.json
 image-verification.json
 ```
 
-`image-verification.json` 记录全部 66 张成图的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
+`image-verification.json` 记录全部 75 张成图及 2 张返工初稿的尺寸及 SHA-256。图片已检查可读取，复制过程已校验完整性；压缩包保存在本地，仓库直接保存原图以便预览与下载。
 
 诺坎普采用经典改建前外观；米兰双雄为同一球场的不同球队氛围版本。图像和细节分图属于艺术化表现，地理距离可为构图压缩，不作为精确地图或建筑工程图。

@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、66 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成或编辑。
+当前收录 **4 种风格、67 张成图、5 张参考图（含 1 张主体照片）**，成图均由内置 `image_gen` 生成或编辑。
 
 ## 风格目录
 
@@ -22,6 +22,14 @@ Reusable visual styles, references, prompts, and generated examples across subje
 [浏览中英文对照图集](collections/assassins-creed-cities.md) · [中文版图集](collections/assassins-creed-cities-zh.md) · [首批提示词](collections/assassins-creed-city-prompts.json) · [新增与中文提示词](collections/assassins-creed-expansion-prompts.json) · [作品清单与资料来源](collections/assassins-creed-cities.json)
 
 <a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-15-venice-zh.png" width="350" alt="威尼斯中文版城市微缩海报"></a> <a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-18-nassau-zh.png" width="350" alt="拿骚中文版城市微缩海报"></a>
+
+## 终南山·银杏秋色
+
+沿用风格 4 的水彩媒介，绘制金黄古银杏、古寺庭院与山间薄雾；无文字画面，为艺术化秋景，并非特定寺院的实景复原。
+
+<a href="images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png"><img src="images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png" width="480" alt="终南山·银杏秋色"></a>
+
+[实际提示词](prompts/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.json)
 
 ## 复古水彩文旅海报
 

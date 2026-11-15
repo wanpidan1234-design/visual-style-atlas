@@ -4,7 +4,7 @@
 
 Reusable visual styles, references, prompts, and generated examples across subjects.
 
-当前收录 **4 种风格、75 张成图、5 张参考图（含 1 张主体照片），另保留 2 张返工初稿**，成图均由内置 `image_gen` 生成或编辑。
+当前收录 **5 种风格、76 张成图、6 张参考图（含 1 张主体照片、1 张生成风格样张），另保留 2 张返工初稿**，成图均由内置 `image_gen` 生成或编辑。
 
 ## 风格目录
 
@@ -14,6 +14,7 @@ Reusable visual styles, references, prompts, and generated examples across subje
 | [复古建筑手绘研究图](styles/STYLE_GUIDE.md) | 旧纸、钢笔线稿、淡水彩、建筑细节分图 | 10 张球场图 | [完整提示词](prompts/vintage-architectural-study-prompts.json) |
 | [高细节城市微缩海报](styles/CITY_MINIATURE_POSTER.md) | 白底大标题、立体城市沙盘、精密街区和地标 | 利物浦及刺客信条 18 个城市场景的中英文版 | [利物浦](prompts/liverpool-city-poster.json) · [刺客信条首批](collections/assassins-creed-city-prompts.json) · [补充与中文](collections/assassins-creed-expansion-prompts.json) |
 | [复古水彩文旅拼景海报](styles/vintage-watercolor-travel-collage.md) | 旧纸、大衬线标题、云雾连接的多地标山水与文化静物 | 美国、云南、樱花山林、郴州、古龙峡及武侠八景 | [可复用模板](prompts/vintage-watercolor-travel-collage-template.json) |
+| [现代数字风景插画](styles/modern-digital-landscape.md) | 干净色块、受控渐变、冷暖对比与通透光影 | 终南山银杏秋色 | [实际提示词](prompts/modern-digital-landscape/zhongnan-ginkgo-autumn.json) |
 
 ## 射雕与神雕：江湖八景
 
@@ -32,6 +33,12 @@ Reusable visual styles, references, prompts, and generated examples across subje
 <a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-15-venice-zh.png" width="350" alt="威尼斯中文版城市微缩海报"></a> <a href="collections/assassins-creed-cities.md"><img src="images/city-miniature-posters/ac-18-nassau-zh.png" width="350" alt="拿骚中文版城市微缩海报"></a>
 
 ## 终南山·银杏秋色
+
+新增现代插画版，保留古银杏、古寺庭院和远山，以现代数字绘画重新表现。
+
+<a href="images/modern-digital-landscape/zhongnan-ginkgo-autumn.png"><img src="images/modern-digital-landscape/zhongnan-ginkgo-autumn.png" width="480" alt="终南山·银杏秋色（现代插画）"></a>
+
+[现代版实际提示词](prompts/modern-digital-landscape/zhongnan-ginkgo-autumn.json) · [风格 5 通用模板](styles/modern-digital-landscape.md)
 
 沿用风格 4 的水彩媒介，绘制金黄古银杏、古寺庭院与山间薄雾；无文字画面，为艺术化秋景，并非特定寺院的实景复原。
 

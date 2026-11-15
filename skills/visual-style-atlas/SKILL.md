@@ -1,6 +1,6 @@
 ---
 name: visual-style-atlas
-description: 按参考风格生成图片并自动归档，遇到新风格时扩充项目和 skill 的选项。已有微缩沙盘鸟瞰、复古建筑手绘研究图、城市微缩海报、复古水彩文旅拼景等风格。用于“用之前的风格画”“选择风格生成一组”“做这个风格的图”“保存新风格”等请求，题材不限足球；不用于普通截图或界面开发。
+description: 按参考风格生成图片并自动归档，遇到新风格时扩充项目和 skill 的选项。已有微缩沙盘鸟瞰、复古建筑手绘研究图、城市微缩海报、复古水彩文旅拼景、现代数字风景插画等风格。用于“用之前的风格画”“选择风格生成一组”“做这个风格的图”“保存新风格”等请求，题材不限足球；不用于普通截图或界面开发。
 ---
 
 # Visual Style Atlas
@@ -15,6 +15,7 @@ description: 按参考风格生成图片并自动归档，遇到新风格时扩�
 | 2 复古建筑手绘研究图 | `vintage-architectural-study` | 建筑、桥梁、场馆、文化地标；旧纸、线稿、水彩和细节分图 | [vintage-architectural-study.md](references/vintage-architectural-study.md) | `assets/vintage-architectural-study-reference.png` |
 | 3 高细节城市微缩海报 | `city-miniature-poster` | 城市、景区、园区或其他空间主题；白底大标题和精密城市模型 | [city-miniature-poster.md](references/city-miniature-poster.md) | `assets/city-miniature-poster-reference.png` |
 | 4 复古水彩文旅拼景海报 | `vintage-watercolor-travel-collage` | 国家、地区、旅行路线；旧纸、水彩山水、多地标融合与文化静物 | [vintage-watercolor-travel-collage.md](references/vintage-watercolor-travel-collage.md) | `assets/vintage-watercolor-travel-collage-reference.png` |
+| 5 现代数字风景插画 | `modern-digital-landscape` | 自然景观、古建、城市；干净色块、冷暖对比与通透光影 | [modern-digital-landscape.md](references/modern-digital-landscape.md) | `assets/modern-digital-landscape-reference.png`（生成样张） |
 
 每次使用时先读目标项目的 `catalog.json`，以实际风格目录为准；上表是初始选项，不是数量上限。新增选项顺序追加，保持已有 ID 和编号稳定。
 

@@ -113,6 +113,16 @@
         "images/vintage-watercolor-travel-collage/sd-02-heartbreak-cliff-v2.png"
       ],
       "prompts": "prompts/vintage-watercolor-travel-collage-template.json"
+    },
+    {
+      "id": "modern-digital-landscape",
+      "name": "现代数字风景插画",
+      "images": [
+        "images/modern-digital-landscape/zhongnan-ginkgo-autumn.png"
+      ],
+      "reference": "styles/modern-digital-landscape-reference.png",
+      "guide": "styles/modern-digital-landscape.md",
+      "reference_origin": "Generated example copied without re-encoding from images/modern-digital-landscape/zhongnan-ginkgo-autumn.png"
     }
   ],
   "items": [
@@ -709,6 +719,17 @@
         1402
       ],
       "sha256": "d57d99dc976bade52473ed865fa7917c79bbe1951eab7fded05e20ab769cc02b"
+    },
+    {
+      "title": "终南山·银杏秋色（现代插画）",
+      "style": "modern-digital-landscape",
+      "image": "images/modern-digital-landscape/zhongnan-ginkgo-autumn.png",
+      "prompt": "prompts/modern-digital-landscape/zhongnan-ginkgo-autumn.json",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "a3d689e07a34b96ca71b03c35fb4bfc399232af2b727054541dfaae723ba0b48"
     }
   ]
 }

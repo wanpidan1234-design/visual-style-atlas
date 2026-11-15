@@ -1,0 +1,13 @@
+{
+  "title": "终南山·银杏秋色（现代插画）",
+  "style": "modern-digital-landscape",
+  "image": "images/modern-digital-landscape/zhongnan-ginkgo-autumn.png",
+  "generator": "built-in image_gen",
+  "prompt": "Restyle the supplied Zhongnan Mountain golden-ginkgo artwork as a modern digital illustration. Preserve its central subject, old tree, traditional temple courtyard, autumn season and mountain setting, while simplifying and modernizing the visual language. Create a single contemporary editorial landscape illustration of the ancient golden ginkgo at the foot of Zhongnan Mountain, China, in autumn. Portrait 4:5 composition. Modern refined digital illustration, bold confident shapes, clean silhouettes, elegant controlled gradients, precise botanical accents, luminous cinematic lighting, sophisticated contemporary art-print quality. NOT vintage watercolor: no aged paper, no distressed borders, no pen sketching, no retro collage. An expansive golden ginkgo canopy dominates the upper two-thirds; the sculptural old trunk sits slightly right of center, its organic branching graceful and credible. Distinct fan-shaped ginkgo leaves, selectively detailed rather than overly busy. A carpet of saffron leaves and a quiet curved stone path in the foreground. A small authentic traditional Chinese temple roof and pale courtyard wall sit discreetly at the lower left, with layered blue-teal Zhongnan mountain silhouettes and thin atmospheric mist behind. A serene clear autumn sky provides pale cream negative space between the mountains and the canopy. Rich golden yellow and amber against cool petrol blue and desaturated teal, restrained warm ivory accents, subtle warm sunlight illuminating translucent leaf edges, long soft shadows. Immersive spatial depth with simplified forms, careful visual hierarchy, modern polished graphic elegance; avoid flat generic clipart or excessive photorealistic noise. Full-bleed artwork with no decorative frame, no writing, no title, no logos, no watermarks, no people, no modern buildings, no unrelated landmarks. An artistic landscape interpretation, not a documentary depiction of a particular temple.\n",
+  "references": [
+    "images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png"
+  ],
+  "reference_roles": {
+    "images/vintage-watercolor-travel-collage/zhongnan-ginkgo-autumn.png": "edit target; retain subject and setting, change medium to modern digital illustration"
+  }
+}

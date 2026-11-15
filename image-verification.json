@@ -616,5 +616,22 @@
     ],
     "sha256": "6bdd45f6a8450ac2cdc150d85c8a572a641ed74c84e4d25293d7a72337c56a0f",
     "status": "superseded"
+  },
+  {
+    "file": "images/modern-digital-landscape/zhongnan-ginkgo-autumn.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "a3d689e07a34b96ca71b03c35fb4bfc399232af2b727054541dfaae723ba0b48"
+  },
+  {
+    "file": "styles/modern-digital-landscape-reference.png",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "sha256": "a3d689e07a34b96ca71b03c35fb4bfc399232af2b727054541dfaae723ba0b48",
+    "role": "generated style reference"
   }
 ]
